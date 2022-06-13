@@ -62,7 +62,7 @@ If both light barriers are triggered the Shutter will be closed.
 
 
 
-1_RadioModule_V1.5_&_Servo_modified
+3_RadioModule_V1.5_&_Servo_modified
 - full rotation of motor (rotated 360°)
 - no light barries
 
