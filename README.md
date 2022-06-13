@@ -89,6 +89,7 @@ Clocking after 10 minutes.
 Standby 2.2mA@9V
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG
+
 https://github.com/peterloes/Servo_Engine
 
 
@@ -97,6 +98,7 @@ https://github.com/peterloes/Servo_Engine
 - Servomotor and Shutter is adjusted to the end positions.
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/4_ElectronicsServo_LightBarrier.JPG
+
 https://github.com/peterloes/Servo_Engine
 
 
@@ -130,8 +132,8 @@ Two high level Signal: 100µA@5V    -- Two low  level Signal: 160µA@5V
 
 Two high level Signal: 100µA@13,2V -- Two low  level Signal: 1,45mA@13,2V
 
-[https://github.com/peterloes/Servo_Engine]
-(https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/4_ElectronicsServo_LightBarrier.JPG)
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/4_ElectronicsServo_LightBarrier.JPG
+
 https://github.com/peterloes/Servo_Engine)
 
 
@@ -150,3 +152,7 @@ With two lightbarrier high level Signal: 204µA@9V
      two lightbarrier low level Signal : 1.65mA@9V
      
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg
+
+https://github.com/peterloes/Light_Barrier
+
+https://github.com/peterloes/Servo_Engine
