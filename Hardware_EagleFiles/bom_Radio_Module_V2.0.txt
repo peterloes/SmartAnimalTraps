@@ -1,0 +1,6 @@
+Part Value        Device       Package Description                                              
+JP1               PINHD-1X2    1X02    PIN HEADER Pin Strip Header Single 2.54mm Herst.: 929834-01-36-RK                                                
+JP2               PINHD-1X5    1X05    PIN HEADER Pin Strip Header Single 2.54mm Herst.: 929834-01-36-RK                                               
+JP3               PINHD-1X12   1X12    PIN HEADER Pin Strip Header Single 2.54mm Herst.: 929834-01-36-RK                                               
+X1   MKDS1/2-3,81 MKDS1/2-3,81 2POL381 MKDS 1/2-3,81 - Order No. 1727010 (RS-Online - 101-5384) 
+X2   MKDS1/3-3,81 MKDS1/3-3,81 3POL381 MKDS 1/3-3,81 - Order No. 1727023 (RS-Online - 101-5390) 
