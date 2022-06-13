@@ -120,5 +120,7 @@ With two lightbarrier high level Signal: 204µA@9V
      two lightbarrier low level Signal : 1.65mA@9V
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg
+
 https://github.com/peterloes/Light_Barrier
+
 https://github.com/peterloes/Servo_Engine
