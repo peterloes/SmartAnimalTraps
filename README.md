@@ -147,9 +147,10 @@ Electronic for LightBarrier ..@9V
 
 Electronic Servomotor and Electronic LightBarrier
 
-With two lightbarrier high level Signal: 204µA@9V
-     two lightbarrier low level Signal : 1.65mA@9V
-     
+With two lightbarrier high level Signal: 204µA@9V -- Two lightbarrier low level Signal : 1.65mA@9V
+
+Receiver Vishay "TSSP58038" and LED Vishay "VSLB3940" and LightBarrier circuit board 3.3V to max.60V 
+
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg
 
 https://github.com/peterloes/Light_Barrier
