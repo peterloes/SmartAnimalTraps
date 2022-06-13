@@ -93,7 +93,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 https://github.com/peterloes/Servo_Engine
 
 
-3_RadioModule_&_FP_LightBarriers_&_ElectronicsServo
+3_RadioModule_&_FP_LightBarriers_&_ElectronicsServo //is still in process 06.2022!!!
 - Frontplate Lightbarriers reused
 - Servomotor and Shutter is adjusted to the end positions.
 
@@ -102,7 +102,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 https://github.com/peterloes/Servo_Engine
 
 
-4_RadioModule_&_ElectronicsLightBarriers_&_ElectronicsServo
+4_RadioModule_&_ElectronicsLightBarriers_&_ElectronicsServo //is still in process 06.2022!!!
 - Electronic Lightbarrier for different distances.
 - Servomotor and Shutter is adjusted to the end positions.
 
@@ -112,8 +112,6 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 https://github.com/peterloes/Light_Barrier
 
 https://github.com/peterloes/Servo_Engine
-
-
 
 
 5_Frontplate_LightBarriers_reused_ElectronicsServo
