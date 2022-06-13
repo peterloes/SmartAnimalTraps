@@ -142,8 +142,9 @@ https://github.com/peterloes/Servo_Engine)
 - no radio module
 - Electronic Lightbarrier for different distances.
 - Servomotor and Shutter is adjusted to the end positions.
-- 
+
 Current consumption needed 500mA@9V for Servomotor!
+
 Electronic for LightBarrier ..@9V
 
 Electronic Servomotor and Electronic LightBarrier
