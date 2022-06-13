@@ -1,9 +1,6 @@
-# SmartAnimalTraps
+# SmartAnimalTraps Is still in process 06.2022!!!
 Electrical non-deadly animal traps built up with intelligent radio module, drive electronics for servomotors
 (flapdrive) and drive electronics for different low power light barriers.
-
-Is still in process 06.2022!!!
-
 
 Intelligent radio module:
 
