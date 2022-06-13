@@ -71,9 +71,6 @@ Standby 11.5mA@9V with LED
 Motor is steady turning 188mA@9V
 
 LINKS
-c:\MPIO\TECHNIK\OPEN_SOURCE\SmartAnimalTraps\Hardware_EagleFiles\
-c:\MPIO\TECHNIK\OPEN_SOURCE\SmartAnimalTraps\Schematics\
-
 
 2_RadioModule_V2.0_&_Electronics_Servo
 - Servomotor and Shutter is adjusted to the end positions.
@@ -86,6 +83,3 @@ Clocking after 10 minutes.
 Standby 2.2mA@9V
 
 LINKS
-c:\MPIO\TECHNIK\OPEN_SOURCE\SmartAnimalTraps\Hardware_EagleFiles\
-c:\MPIO\TECHNIK\OPEN_SOURCE\SmartAnimalTraps\Schematics\
-https://github.com/peterloes/Servo_Engine
