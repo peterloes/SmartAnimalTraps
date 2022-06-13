@@ -107,3 +107,18 @@ Two high level Signal: 100µA@13,2V -- Two low  level Signal: 1,45mA@13,2V
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/4_ElectronicsServo_LightBarrier.JPG
 
 https://github.com/peterloes/Servo_Engine
+
+
+4_Electronics_LightBarriers_ElectronicsServo_2022
+
+Current consumption needed 500mA@9V for Servomotor!
+Electronic for LightBarrier ..@9V
+
+Electronic Servomotor and Electronic LightBarrier
+
+With two lightbarrier high level Signal: 204µA@9V
+     two lightbarrier low level Signal : 1.65mA@9V
+
+https://github.com/peterloes/Light_Barrier
+https://github.com/peterloes/Servo_Engine
+
