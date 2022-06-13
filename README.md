@@ -12,6 +12,8 @@ As required, up to 60 transmitters can be taught with all keys or individual tra
 The particular highlight is the feedback from the receiver. You can see from the transmitter
 whether the wireless communication was successful and receive information about the quality of the transmission path.
 
+Protection against misuse. Dear follower, please contact me via email to get more information about the used wireless radio module. 
+
 Long range, tested over a distance of 150 meters
 
 Examples after teaching the modules:
