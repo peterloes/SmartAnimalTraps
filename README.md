@@ -73,7 +73,8 @@ Standby 11.5mA@9V with LED
 
 Motor is steady turning 188mA@9V
 
-LINKS
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModule_V1.5_Servomodified.JPG
+
 
 2_RadioModule_V2.0_&_Electronics_Servo
 - Servomotor and Shutter is adjusted to the end positions.
