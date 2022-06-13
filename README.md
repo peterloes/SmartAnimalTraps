@@ -88,3 +88,6 @@ Standby 2.2mA@9V
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG
 https://github.com/peterloes/Servo_Engine
+
+
+4_Frontplate_LightBarriers_reused_ElectronicsServo
