@@ -86,4 +86,5 @@ Standby 20.5mA@9V with LED
 Clocking after 10 minutes.
 Standby 2.2mA@9V
 
-LINKS
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG
+https://github.com/peterloes/Servo_Engine
