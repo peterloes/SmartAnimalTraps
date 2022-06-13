@@ -12,8 +12,6 @@ As required, up to 60 transmitters can be taught with all keys or individual tra
 The particular highlight is the feedback from the receiver. You can see from the transmitter
 whether the wireless communication was successful and receive information about the quality of the transmission path.
 
-Protection against misuse. Dear follower, please contact me via email to get more information about the used wireless radio module. 
-
 Long range, tested over a distance of 150 meters
 
 Examples after teaching the modules:
@@ -67,6 +65,7 @@ If both light barriers are triggered the Shutter will be closed.
 3_RadioModule_V1.5_&_Servo_modified
 - full rotation of motor (rotated 360°)
 - no light barries
+- Protection against misuse. Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 Current consumption:  
 Standby 30mA@9V with LED
@@ -81,6 +80,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 2_RadioModule_V2.0_&_Electronics_Servo
 - Servomotor and Shutter is adjusted to the end positions.
 - no light barries
+- Protection against misuse. Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 Current consumption:  
 
