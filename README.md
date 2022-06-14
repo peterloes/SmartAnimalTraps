@@ -113,6 +113,7 @@ Motor is steady turning 188mA@9V
 LINK!!! Electronics Radio Module V2.0 // In process DD.06.2022!!!
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/32_RadioModule_V1.5.JPG
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/33_Servo_modified.JPG
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
