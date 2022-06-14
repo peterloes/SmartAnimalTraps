@@ -35,7 +35,7 @@ Pushbutton2 end position 2/ Shutter closed
 
 Drive electronics for light barries:
 
-Supported two low power light barriers, adjustable for different distances(size of animal). 10cm to 3.3meter
+Supported two low power light barriers, adjustable for different distances(size of animal). 10cm to tested 3.3meter
 Scattered light independently and invisible.
 
 Examples for light barriers:
