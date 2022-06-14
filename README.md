@@ -101,7 +101,7 @@ https://github.com/peterloes/Servo_Engine
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-#### 3_RadioModule_V1.5_&_Servo_modified
+#### 3_RadioModule_V1.5_&_ServoModified
 - Radio Module
 - No light barries
 - Full rotation of modified Servomotor --> Motor rotated 360°
