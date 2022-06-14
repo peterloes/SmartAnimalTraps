@@ -19,11 +19,17 @@ Long range tested over a distance of 150 meters.
 
 Examples after teaching the modules:
  
-Hand-held transmitter1 /Key1 /Trap1 /Shutter open. Hand-held transmitter1 /Key2 /Trap1 /Shutter closed. Hand-held transmitter1 /Key3 /Trap2 /Shutter open. 
-Hand-held transmitter1 /Key4 /Trap2 /Shutter closed. 
+Hand-held transmitter1 /Key1 /Trap1 /Shutter open
+
+Hand-held transmitter1 /Key2 /Trap1 /Shutter closed
+
+Hand-held transmitter1 /Key3 /Trap2 /Shutter open
+
+Hand-held transmitter1 /Key4 /Trap2 /Shutter closed
 
 or 
  
+Hand-held transmitter1 /Key1 /Trap1/Trap2/Trap3/Trap4 /Shutter open
 
 Hand-held transmitter1 /Key2 /Trap1/Trap2/Trap3/Trap4 /Shutter closed
 
