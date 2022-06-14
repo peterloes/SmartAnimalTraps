@@ -180,6 +180,8 @@ Current consumption needed 500mA@9V for Servomotor!
 
 Smart Nestbox Frontplatte reuse 3.3V to max. 6V and LightBarrier circuit board 3.3V to max.60V 
 
+!!! repeat measurements DD.06.2022
+
 Two high level Signal: 105µA@3,3V  -- Two low  level Signal: 1,47mA@3,3V
 
 Two high level Signal: 100µA@5V    -- Two low  level Signal: 160µA@5V
