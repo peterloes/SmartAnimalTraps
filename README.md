@@ -106,6 +106,8 @@ https://github.com/peterloes/Servo_Engine
 - No light barries
 - Full rotation of modified Servomotor --> Motor rotated 360°
 
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModuleV1.5_ServoModified.JPG)
+
 Current consumption:  
 Standby 30mA@9V with LED
 Clocking after 10 minutes.
