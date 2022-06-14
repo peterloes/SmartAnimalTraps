@@ -170,6 +170,8 @@ https://github.com/peterloes/Servo_Engine
 - Reused frontplate from nestbox with Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
 
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/6_ReusedFrontplateLightBarriers_ElectronicsServo.JPG)
+
 Current consumption needed 500mA@9V for Servomotor!
 
 Smart Nestbox Frontplatte reuse 3.3V to max. 6V and LightBarrier circuit board 3.3V to max.60V 
@@ -180,6 +182,5 @@ Two high level Signal: 100µA@5V    -- Two low  level Signal: 160µA@5V
 
 Two high level Signal: 100µA@13,2V -- Two low  level Signal: 1,45mA@13,2V
 
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/4_ElectronicsServo_LightBarrier.JPG
 
 https://github.com/peterloes/Servo_Engine
