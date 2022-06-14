@@ -136,7 +136,7 @@ Two high level Signal: 100µA@5V    -- Two low  level Signal: 160µA@5V
 
 Two high level Signal: 100µA@13,2V -- Two low  level Signal: 1,45mA@13,2V
 
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/4_ElectronicsServo_LightBarrier.JPG
+LINK!!! Electronics Radio Module V?? // In process DD.06.2022!!!
 
 https://github.com/peterloes/Servo_Engine
 
