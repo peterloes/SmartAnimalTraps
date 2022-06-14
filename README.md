@@ -81,6 +81,7 @@ https://github.com/peterloes/Servo_Engine
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
+
 3_RadioModule_V1.5_&_Servo_modified
 - Radio Module
 - No light barries
@@ -98,9 +99,29 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-4_Electronics_LightBarriers_ElectronicsServo_2022
+4_Reused_Frontplate_LightBarriers_&_ElectronicsServo
+- Radio Module
+- Reused frontplate nestbox with Lightbarriers
+- Servomotor and Shutter is adjusted to the end positions.
+
+Current consumption needed 500mA@9V for Servomotor!
+
+Smart Nestbox Frontplatte reuse 3.3V to max. 6V and LightBarrier circuit board 3.3V to max.60V 
+
+Two high level Signal: 105µA@3,3V  -- Two low  level Signal: 1,47mA@3,3V
+
+Two high level Signal: 100µA@5V    -- Two low  level Signal: 160µA@5V
+
+Two high level Signal: 100µA@13,2V -- Two low  level Signal: 1,45mA@13,2V
+
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/4_ElectronicsServo_LightBarrier.JPG
+
+https://github.com/peterloes/Servo_Engine
+
+
+5_ElectronicsLightBarriers_&_ElectronicsServo_2022
 - No radio module
-- Electronic Lightbarrier for different distances.
+- Electronic Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
 
 Current consumption needed 500mA@9V for Servomotor!
@@ -120,10 +141,9 @@ https://github.com/peterloes/Light_Barrier
 https://github.com/peterloes/Servo_Engine
 
 
-5_Frontplate_LightBarriers_reused_ElectronicsServo
-
-- no radio module
-- Frontplate Lightbarriers reused
+6_Reused_Frontplate_LightBarriers_&_ElectronicsServo
+- No Radio Module
+- Reused frontplate from nestbox with Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
 
 Current consumption needed 500mA@9V for Servomotor!
