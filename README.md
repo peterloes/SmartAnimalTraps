@@ -2,6 +2,9 @@
 Electrical non-deadly animal traps built up with intelligent radio module, drive electronics for servomotors
 (flapdrive) and drive electronics for different low power light barriers.
 
+Authors: Loës P. (2022)
+
+
 Intelligent radio module:
 
 Wireless module receives and evaluates the data received from a transmitter.
@@ -42,25 +45,24 @@ Examples for light barriers:
 If both light barriers are triggered the Shutter will be closed.
 
 
+1_RadioModule_&_ElectronicsLightBarriers_&_ElectronicsServo 
+- Radio Module 
+- Electronic Lightbarrier for different distances.
+- Servomotor and Shutter is adjusted to the end positions.
 
+Current consumption: // In process DD.06.2022!!!
 
-1_RadioModule_V1.5_&_Servo_modified
-- no light barries
-- full rotation of motor (rotated 360°)
-- Protection against misuse. Dear follower, please contact me via email to get more information about the used wireless radio module. 
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg
 
-Current consumption:  
-Standby 30mA@9V with LED
-Clocking after 10 minutes.
-Standby 11.5mA@9V with LED
+https://github.com/peterloes/Light_Barrier
 
-Motor is steady turning 188mA@9V
+https://github.com/peterloes/Servo_Engine
 
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModule_V1.5_Servomodified.JPG
-
+--> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 2_RadioModule_V2.0_&_ElectronicsServo
-- no light barries
+- Radio Module
+- No light barries
 - Servomotor and Shutter is adjusted to the end positions.
 - Protection against misuse. Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
@@ -74,20 +76,39 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 https://github.com/peterloes/Servo_Engine
 
+--> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
-3_RadioModule_&_FP_LightBarriers_&_ElectronicsServo //is still in process 06.2022!!!
-- Frontplate Lightbarriers reused
-- Servomotor and Shutter is adjusted to the end positions.
+3_RadioModule_V1.5_&_Servo_modified
+- Radio Module
+- No light barries
+- Full rotation of modified Servomotor --> Motor rotated 360°
 
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/4_ElectronicsServo_LightBarrier.JPG
+Current consumption:  
+Standby 30mA@9V with LED
+Clocking after 10 minutes.
+Standby 11.5mA@9V with LED
 
-https://github.com/peterloes/Servo_Engine
+Motor is steady turning 188mA@9V
+
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModule_V1.5_Servomodified.JPG
+
+--> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-4_RadioModule_&_ElectronicsLightBarriers_&_ElectronicsServo //is still in process 06.2022!!!
+4_Electronics_LightBarriers_ElectronicsServo_2022
+- No radio module
 - Electronic Lightbarrier for different distances.
 - Servomotor and Shutter is adjusted to the end positions.
 
+Current consumption needed 500mA@9V for Servomotor!
+
+Electronic for LightBarrier ..@9V
+
+Electronic Servomotor and Electronic LightBarrier
+
+With two lightbarrier high level Signal: 204µA@9V -- Two lightbarrier low level Signal : 1.65mA@9V
+
+Receiver Vishay "TSSP58038" and LED Vishay "VSLB3940" and LightBarrier circuit board 3.3V to max.60V 
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg
 
@@ -113,28 +134,5 @@ Two high level Signal: 100µA@5V    -- Two low  level Signal: 160µA@5V
 Two high level Signal: 100µA@13,2V -- Two low  level Signal: 1,45mA@13,2V
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/4_ElectronicsServo_LightBarrier.JPG
-
-https://github.com/peterloes/Servo_Engine)
-
-
-6_Electronics_LightBarriers_ElectronicsServo_2022
-
-- no radio module
-- Electronic Lightbarrier for different distances.
-- Servomotor and Shutter is adjusted to the end positions.
-
-Current consumption needed 500mA@9V for Servomotor!
-
-Electronic for LightBarrier ..@9V
-
-Electronic Servomotor and Electronic LightBarrier
-
-With two lightbarrier high level Signal: 204µA@9V -- Two lightbarrier low level Signal : 1.65mA@9V
-
-Receiver Vishay "TSSP58038" and LED Vishay "VSLB3940" and LightBarrier circuit board 3.3V to max.60V 
-
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg
-
-https://github.com/peterloes/Light_Barrier
 
 https://github.com/peterloes/Servo_Engine
