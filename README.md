@@ -15,7 +15,7 @@ whether the wireless communication was successful and receive information about 
 
 Drive electronics for servomotor and flap:
 
-Trigger always the same postions over inputs signals (two end points) or over pushbuttons.
+Trigger always the same postions over input signals (two end points) or over pushbuttons.
 
 The servo setup procedure consists of 4 steps:
 
