@@ -6,7 +6,7 @@ Author: Loës P. (2022)
 
 
 
-## Intelligent radio module:
+#### Intelligent radio module:
 
 Wireless module receives and evaluates the data received from a transmitter.
 
@@ -34,7 +34,7 @@ Hand-held transmitter1 /Key1 /Trap1/Trap2/Trap3/Trap4 /Shutter open
 Hand-held transmitter1 /Key2 /Trap1/Trap2/Trap3/Trap4 /Shutter closed
 
 
-## Drive electronics for servomotor and flap:
+#### Drive electronics for servomotor and flap:
 
 Trigger always the same postions over input signals (two end points) or over pushbuttons.
 
@@ -58,7 +58,7 @@ Pushbutton1 end position 1/ Shutter open
 Pushbutton2 end position 2/ Shutter closed
 
 
-## Drive electronics for light barries:
+#### Drive electronics for light barries:
 
 Supported two low power light barriers, adjustable for different distances(size of animal). 10cm to tested 3.3meter
 Scattered light independently and invisible.
@@ -67,7 +67,7 @@ Examples for light barriers:
 If both light barriers are triggered the Shutter will be closed.
 
 
-#### 1_RadioModule_&_ElectronicsLightBarriers_&_ElectronicsServo 
+## 1_RadioModule_&_ElectronicsLightBarriers_&_ElectronicsServo 
 - Radio Module 
 - Electronic Lightbarrier for different distances.
 - Servomotor and Shutter is adjusted to the end positions.
@@ -82,7 +82,7 @@ https://github.com/peterloes/Servo_Engine
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
-#### 2_RadioModule_V2.0_&_ElectronicsServo
+## 2_RadioModule_V2.0_&_ElectronicsServo
 - Radio Module
 - Electronics Radio Module V2.0
 - No light barries
@@ -103,7 +103,7 @@ https://github.com/peterloes/Servo_Engine
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-#### 3_RadioModule_V1.5_&_ServoModified
+## 3_RadioModule_V1.5_&_ServoModified
 - Radio Module
 - Electronics Radio Module V1.5
 - No light barries
@@ -125,7 +125,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-#### 4_ReusedFrontplateLightBarriers_&_ElectronicsServo
+## 4_ReusedFrontplateLightBarriers_&_ElectronicsServo
 - Radio Module
 - Reused frontplate nestbox with Lightbarriers
 - Servomotor and Shutter is adjusted to the end positions.
@@ -149,7 +149,7 @@ https://github.com/peterloes/Servo_Engine
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-#### 5_ElectronicsLightBarriers_&_ElectronicsServo_2022
+## 5_ElectronicsLightBarriers_&_ElectronicsServo_2022
 - No radio module
 - Electronic Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
@@ -172,7 +172,7 @@ https://github.com/peterloes/Light_Barrier
 https://github.com/peterloes/Servo_Engine
 
 
-#### 6_ReusedFrontplateLightBarriers_&_ElectronicsServo
+## 6_ReusedFrontplateLightBarriers_&_ElectronicsServo
 - No Radio Module
 - Reused frontplate from nestbox with Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
