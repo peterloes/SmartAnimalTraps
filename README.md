@@ -27,6 +27,7 @@ Hand-held transmitter1 /Key3 /Trap2 /Shutter open
 
 Hand-held transmitter1 /Key4 /Trap2 /Shutter closed
  
+or 
  
 Hand-held transmitter1 /Key1 /Trap1/Trap2/Trap3/Trap4 /Shutter open
 
