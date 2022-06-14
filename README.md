@@ -85,7 +85,6 @@ https://github.com/peterloes/Servo_Engine
 - Electronics Radio Module V2.0 // In process DD.06.2022!!!
 - No light barries
 - Servomotor and Shutter is adjusted to the end positions.
-- Protection against misuse. Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG)
 
