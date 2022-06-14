@@ -67,7 +67,7 @@ Examples for light barriers:
 If both light barriers are triggered the Shutter will be closed.
 
 
-1_RadioModule_&_ElectronicsLightBarriers_&_ElectronicsServo 
+### 1_RadioModule_&_ElectronicsLightBarriers_&_ElectronicsServo 
 - Radio Module 
 - Electronic Lightbarrier for different distances.
 - Servomotor and Shutter is adjusted to the end positions.
@@ -82,7 +82,7 @@ https://github.com/peterloes/Servo_Engine
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
-2_RadioModule_V2.0_&_ElectronicsServo
+### 2_RadioModule_V2.0_&_ElectronicsServo
 - Radio Module
 - No light barries
 - Servomotor and Shutter is adjusted to the end positions.
@@ -101,7 +101,7 @@ https://github.com/peterloes/Servo_Engine
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-3_RadioModule_V1.5_&_Servo_modified
+### 3_RadioModule_V1.5_&_Servo_modified
 - Radio Module
 - No light barries
 - Full rotation of modified Servomotor --> Motor rotated 360°
@@ -118,7 +118,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-4_Reused_Frontplate_LightBarriers_&_ElectronicsServo
+### 4_Reused_Frontplate_LightBarriers_&_ElectronicsServo
 - Radio Module
 - Reused frontplate nestbox with Lightbarriers
 - Servomotor and Shutter is adjusted to the end positions.
@@ -137,8 +137,10 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 https://github.com/peterloes/Servo_Engine
 
+--> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
-5_ElectronicsLightBarriers_&_ElectronicsServo_2022
+
+### 5_ElectronicsLightBarriers_&_ElectronicsServo_2022
 - No radio module
 - Electronic Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
@@ -160,7 +162,7 @@ https://github.com/peterloes/Light_Barrier
 https://github.com/peterloes/Servo_Engine
 
 
-6_Reused_Frontplate_LightBarriers_&_ElectronicsServo
+### 6_Reused_Frontplate_LightBarriers_&_ElectronicsServo
 - No Radio Module
 - Reused frontplate from nestbox with Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
