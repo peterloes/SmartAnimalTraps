@@ -146,7 +146,7 @@ https://github.com/peterloes/Servo_Engine
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-## 5_ElectronicsLightBarriers_&_ElectronicsServo_2022
+## 5_ElectronicsLightBarriers_&_ElectronicsServo
 - No radio module
 - Electronic Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
