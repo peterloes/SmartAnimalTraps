@@ -19,19 +19,13 @@ Long range tested over a distance of 150 meters.
 
 Examples after teaching the modules:
  
-Hand-held transmitter1 /Key1 /Trap1 /Shutter open
-
-Hand-held transmitter1 /Key2 /Trap1 /Shutter closed
-
-Hand-held transmitter1 /Key3 /Trap2 /Shutter open
-
-Hand-held transmitter1 /Key4 /Trap2 /Shutter closed
+Hand-held transmitter1 --> Key1 -- Trap1 --> Shutter open   ----   Hand-held transmitter1 --> Key2 -- Trap1 --> Shutter closed
+Hand-held transmitter1 --> Key3 -- Trap2 --> Shutter open   ----   Hand-held transmitter1 --> Key4 -- Trap2 --> Shutter closed
 
 or 
  
-Hand-held transmitter2 /Key1 /Trap1/Trap2/Trap3/Trap4 /Shutter open
-
-Hand-held transmitter2 /Key2 /Trap1/Trap2/Trap3/Trap4 /Shutter closed
+Hand-held transmitter2 --> Key1 -- Trap1-Trap2-Trap3-Trap4 --> Shutter open
+Hand-held transmitter2 --> Key2 -- Trap1-Trap2-Trap3-Trap4 --> Shutter closed
 
 
 #### Drive electronics for servomotor and flap:
@@ -47,15 +41,11 @@ Asserting S3 the 4th time stores the servo parameters into FLASH and returns to 
 
 Examples for Shutterposition after adjust the end positions:
 
-Input Signal1 end position 1/ Shutter open
-
-Input Signal2 end position 2/ Shutter closed
+Input Signal1 end position 1 --> Shutter open    ----    Input Signal2 end position 2 --> Shutter closed
 
 or 
 
-Pushbutton1 end position 1/ Shutter open
-
-Pushbutton2 end position 2/ Shutter closed
+Pushbutton1 end position 1 --> Shutter open    ----    Pushbutton2 end position 2 --> Shutter closed
 
 
 #### Drive electronics for light barries:
