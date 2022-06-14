@@ -24,7 +24,7 @@ Adjust end position 2. This is the opposite end position to position 1.
 Adjust servo speed. The servo permanently moves between the two end points. The speed can be adjusted via S1 and S2.
 Asserting S3 the 4th time stores the servo parameters into FLASH and returns to normal operation
 
-Examples for shutter after adjust the end positions:
+Examples for shutterposition after adjust the end positions:
 
 Input Signal1 end position 1/ Shutter open
 Input Signal2 end position 2/ Shutter closed
