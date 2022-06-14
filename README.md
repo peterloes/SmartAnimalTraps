@@ -84,6 +84,7 @@ https://github.com/peterloes/Servo_Engine
 
 #### 2_RadioModule_V2.0_&_ElectronicsServo
 - Radio Module
+- Electronics Radio Module V2.0
 - No light barries
 - Servomotor and Shutter is adjusted to the end positions.
 - Protection against misuse. Dear follower, please contact me via email to get more information about the used wireless radio module. 
@@ -103,6 +104,7 @@ https://github.com/peterloes/Servo_Engine
 
 #### 3_RadioModule_V1.5_&_ServoModified
 - Radio Module
+- Electronics Radio Module V1.5
 - No light barries
 - Full rotation of modified Servomotor --> Motor rotated 360°
 
