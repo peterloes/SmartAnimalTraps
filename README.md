@@ -6,7 +6,7 @@ Author: Loës P. (2022)
 
 
 
-Intelligent radio module:
+## Intelligent radio module:
 
 Wireless module receives and evaluates the data received from a transmitter.
 
@@ -17,8 +17,7 @@ The particular highlight is the feedback from the receiver. You can see from the
 whether the wireless communication was successful and receive information about the quality of the transmission path. Long range tested over a distance of 150 meters.
 
 
-
-Drive electronics for servomotor and flap:
+## Drive electronics for servomotor and flap:
 
 Trigger always the same postions over input signals (two end points) or over pushbuttons.
 
@@ -38,8 +37,7 @@ Pushbutton1 end position 1/ Shutter open
 Pushbutton2 end position 2/ Shutter closed
 
 
-
-Drive electronics for light barries:
+## Drive electronics for light barries:
 
 Supported two low power light barriers, adjustable for different distances(size of animal). 10cm to tested 3.3meter
 Scattered light independently and invisible.
