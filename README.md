@@ -5,6 +5,7 @@ Electrical non-deadly animal traps built up with intelligent radio module, drive
 Authors: Loës P. (2022)
 
 
+
 Intelligent radio module:
 
 Wireless module receives and evaluates the data received from a transmitter.
@@ -14,6 +15,7 @@ Teaching of a transmitter is carried out very easily by means of a button.
 As required, up to 60 transmitters can be taught with all keys or individual transmission keys.
 The particular highlight is the feedback from the receiver. You can see from the transmitter
 whether the wireless communication was successful and receive information about the quality of the transmission path. Long range tested over a distance of 150 meters.
+
 
 
 Drive electronics for servomotor and flap:
@@ -34,6 +36,7 @@ Input Signal2 end position 2/ Shutter closed
 
 Pushbutton1 end position 1/ Shutter open
 Pushbutton2 end position 2/ Shutter closed
+
 
 
 Drive electronics for light barries:
