@@ -90,6 +90,7 @@ Standby 20.5mA@9V with LED
 Clocking after 10 minutes.
 Standby 2.2mA@9V
 
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/Radio_Module_V2.0.brd.pdf
 https://github.com/peterloes/Servo_Engine
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
