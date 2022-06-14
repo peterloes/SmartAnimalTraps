@@ -191,3 +191,11 @@ Two high level Signal: 100µA@13,2V -- Two low  level Signal: 1,45mA@13,2V
 
 https://github.com/peterloes/Servo_Engine
 
+EXTENSIONS:
+
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/SailwinchServo.jpg
+
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/Snaptrap.jpg
+
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/LightBarrier_example.jpg
+
