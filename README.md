@@ -154,8 +154,6 @@ https://github.com/peterloes/Servo_Engine
 - Electronic Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
 
-!!! Electronics Radio Module V??? in process DD.06.2022
-
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg)
 
 Current consumption needed 500mA@9V for Servomotor!
@@ -178,8 +176,6 @@ https://github.com/peterloes/Servo_Engine
 - No Radio Module
 - Reused frontplate from nestbox with Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
-
-!!! Electronics Radio Module V??? in process DD.06.2022
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/6_ReusedFrontplateLightBarriers_ElectronicsServo.JPG)
 
