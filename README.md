@@ -74,8 +74,6 @@ If both light barriers are triggered the Shutter will be closed.
 
 Current consumption: // In process DD.06.2022!!!
 
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg
-
 https://github.com/peterloes/Light_Barrier
 
 https://github.com/peterloes/Servo_Engine
@@ -149,6 +147,8 @@ https://github.com/peterloes/Servo_Engine
 - Electronic Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
 
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg)
+
 Current consumption needed 500mA@9V for Servomotor!
 
 Electronic for LightBarrier ..@9V
@@ -159,7 +159,6 @@ With two lightbarrier high level Signal: 204µA@9V -- Two lightbarrier low level
 
 Receiver Vishay "TSSP58038" and LED Vishay "VSLB3940" and LightBarrier circuit board 3.3V to max.60V 
 
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg
 
 https://github.com/peterloes/Light_Barrier
 
