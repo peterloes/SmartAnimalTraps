@@ -82,18 +82,18 @@ https://github.com/peterloes/Servo_Engine
 
 #### 2_RadioModule_V2.0_&_ElectronicsServo
 - Radio Module
-- Electronics Radio Module V2.0
+- Electronics Radio Module V2.0 // In process DD.06.2022!!!
 - No light barries
 - Servomotor and Shutter is adjusted to the end positions.
 - Protection against misuse. Dear follower, please contact me via email to get more information about the used wireless radio module. 
+
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG)
 
 Current consumption:  
 
 Standby 20.5mA@9V with LED
 Clocking after 10 minutes.
 Standby 2.2mA@9V
-
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG
 
 https://github.com/peterloes/Servo_Engine
 
