@@ -10,23 +10,7 @@ In order to carry out a command from a transmitter, it must first be taught.
 Teaching of a transmitter is carried out very easily by means of a button.
 As required, up to 60 transmitters can be taught with all keys or individual transmission keys.
 The particular highlight is the feedback from the receiver. You can see from the transmitter
-whether the wireless communication was successful and receive information about the quality of the transmission path. Long range tested over a distance of 150 meters
-
-Examples after teaching the modules:
- 
-Hand-held transmitter1 /Key1 /Trap1 /Shutter open
-
-Hand-held transmitter1 /Key2 /Trap1 /Shutter closed
-
-Hand-held transmitter1 /Key3 /Trap2 /Shutter open
-
-Hand-held transmitter1 /Key4 /Trap2 /Shutter closed
-
-
-Hand-held transmitter1 /Key1 /Trap1/Trap2/Trap3/Trap4 /Shutter open
-
-Hand-held transmitter1 /Key2 /Trap1/Trap2/Trap3/Trap4 /Shutter closed
-
+whether the wireless communication was successful and receive information about the quality of the transmission path. Long range tested over a distance of 150 meters.
 
 
 Drive electronics for servomotor and flap:
