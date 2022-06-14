@@ -72,7 +72,9 @@ If both light barriers are triggered the Shutter will be closed.
 - Electronic Lightbarrier for different distances.
 - Servomotor and Shutter is adjusted to the end positions.
 
-Current consumption: // In process DD.06.2022!!!
+!!! Electronics Radio Module V??? in process DD.06.2022
+
+Current consumption:
 
 https://github.com/peterloes/Light_Barrier
 
@@ -82,9 +84,11 @@ https://github.com/peterloes/Servo_Engine
 
 #### 2_RadioModule_V2.0_&_ElectronicsServo
 - Radio Module
-- Electronics Radio Module V2.0 // In process DD.06.2022!!!
+- Electronics Radio Module V2.0
 - No light barries
 - Servomotor and Shutter is adjusted to the end positions.
+
+!!! Electronics Radio Module V??? in process DD.06.2022
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG)
 
@@ -126,6 +130,8 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 - Reused frontplate nestbox with Lightbarriers
 - Servomotor and Shutter is adjusted to the end positions.
 
+!!! Electronics Radio Module V??? in process DD.06.2022
+
 Current consumption needed 500mA@9V for Servomotor!
 
 Smart Nestbox Frontplatte reuse 3.3V to max. 6V and LightBarrier circuit board 3.3V to max.60V 
@@ -147,6 +153,8 @@ https://github.com/peterloes/Servo_Engine
 - No radio module
 - Electronic Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
+
+!!! Electronics Radio Module V??? in process DD.06.2022
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg)
 
@@ -170,6 +178,8 @@ https://github.com/peterloes/Servo_Engine
 - No Radio Module
 - Reused frontplate from nestbox with Lightbarriers are switching Shutterpositions.
 - Servomotor and Shutter is adjusted to the end positions.
+
+!!! Electronics Radio Module V??? in process DD.06.2022
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/6_ReusedFrontplateLightBarriers_ElectronicsServo.JPG)
 
