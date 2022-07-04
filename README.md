@@ -54,8 +54,9 @@ Pushbutton1 end position 1   --> Shutter open_____ Pushbutton2 end position 2   
 Supported two low power lightbarriers, adjustable for different distances(size of animal) 10centimetres to tested 3.3metres. 
 The beam is scattered light independently and invisible.
 
-Examples for light barriers:
-If both light barriers are triggered the Shutter will be closed.
+Examples for lightbarriers:
+
+Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs a falling edge to 0V to close the shutter.
 
 
 ## 1 RadiomoduleV?.? & electronicsLightbarriers & electronicsServo
