@@ -84,7 +84,7 @@ Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarrie
 
 Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
 
-Pushbutton 1 and Pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
+Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
