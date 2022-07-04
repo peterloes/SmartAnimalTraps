@@ -74,7 +74,11 @@ https://github.com/peterloes/Light_Barrier
 
 https://github.com/peterloes/Servo_Engine
 
-Lightbarrier 1 and lightbarrier 2 are connected with Logic AND. Both Lightbarrier needs level 0V to trigger the shutter closed. 
+The radio handheld transmitter is able to open and close the shutter, from a distance tested over 100 metres.
+Lightbarrier 1 and lightbarrier 2 are connected with Logic AND. Both Lightbarrier needs a falling edge to 0V to close the shutter.
+Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
+Pushbutton 1 and Pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
+
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
