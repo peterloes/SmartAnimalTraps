@@ -83,7 +83,7 @@ Pushbutton 1 and Pushbutton 2, mounted on the top of the electronical circuit, a
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-## 2_radiomodule_V2.0_&_electronicsServo
+## 2 RadiomoduleV2.0 & electronicsServo
 - Radio module
 - Electronics radio module V2.0
 - No light barries
@@ -106,7 +106,7 @@ https://github.com/peterloes/Servo_Engine
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-## 3_radiomodule_V1.5_&_Servomodified
+## 3 RadiomoduleV1.5 & modifiedServo
 - Radio module
 - Electronics radio module V1.5
 - No light barries
@@ -130,7 +130,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-## 4_reusedFrontplateLightBarriers_&_electronicsServo
+## 4 ReusedFrontplateLightBarriers & electronicsServo
 - Radio module
 - Reused frontplate nestbox with Lightbarriers
 - Servomotor and shutter is adjusted to the end positions.
@@ -154,7 +154,7 @@ https://github.com/peterloes/Servo_Engine
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-## 5_electronicsLightBarriers_&_electronicsServo
+## 5 electronicsLightBarriers & electronicsServo
 - No radio module
 - Electronic lightbarriers are switching shutterpositions.
 - Servomotor and shutter is adjusted to the end positions.
@@ -177,7 +177,7 @@ https://github.com/peterloes/Light_Barrier
 https://github.com/peterloes/Servo_Engine
 
 
-## 6_reusedFrontplateLightBarriers_&_electronicsServo
+## 6 ReusedFrontplateLightBarriers & electronicsServo
 - No Radio module
 - Reused frontplate from nestbox with lightbarriers are switching shutterpositions.
 - Servomotor and shutter is adjusted to the end positions.
