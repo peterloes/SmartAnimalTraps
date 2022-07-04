@@ -218,7 +218,7 @@ Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
 
-### Current consumption needed 500mA@9V for Servomotor!
+### Current consumption needed 500mA@9V for Servomotor:
 
 Smart nestbox frontplatte reused 3.3V to max. 6V and lightbarrier circuit board 3.3V to max.60V 
 
