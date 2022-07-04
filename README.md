@@ -31,7 +31,7 @@ Hand-held transmitter2 --> Key2 -- Trap1-Trap2-Trap3-Trap4 --> Shutter closed
 
 #### Drive electronics for servomotor and flap:
 
-Trigger always the same postions over input signals (two end points) or over pushbuttons.
+Trigger always the same positions over input signals (two end points) or over pushbuttons.
 
 The servo setup procedure consists of 4 steps:
 
