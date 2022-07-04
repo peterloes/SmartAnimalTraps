@@ -127,7 +127,7 @@ https://github.com/peterloes/Servo_Engine
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModuleV1.5_ServoModified.JPG)
 
-The radio handheld transmitter is able to open and close the shutter, from a distance tested over 100 metres.
+The radio handheld transmitter is able to open, close and to rotates the shutter, from a distance tested over 100 metres.
 
 
 ### Current consumption:  
