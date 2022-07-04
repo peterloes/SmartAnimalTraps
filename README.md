@@ -76,8 +76,7 @@ Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
-
-Current consumption:
+### Current consumption:
 
 Standby 20.8mA@9V with LEDs.
 
