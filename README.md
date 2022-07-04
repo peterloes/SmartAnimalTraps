@@ -128,6 +128,9 @@ https://github.com/peterloes/Servo_Engine
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModuleV1.5_ServoModified.JPG)
 
+The radio handheld transmitter is able to open and close the shutter, from a distance tested over 100 metres.
+
+
 Current consumption:  
 
 Standby      30mA@9V with LEDs
@@ -135,6 +138,7 @@ Standby      30mA@9V with LEDs
 Sleep mode 11.5mA@9V delay after 10 minutes.
 
 Motor is steady turning 188mA@9V
+
 
 LINK!!! Electronics Radio Module V2.0 // In process DD.06.2022!!!
 
