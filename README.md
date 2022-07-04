@@ -64,7 +64,7 @@ If both light barriers are triggered the Shutter will be closed.
 - Electronic lightbarrier for different distances.
 - Servomotor and shutter is adjusted to the end positions.
 
-!!! Electronics Radio Module V??? in process DD.06.2022
+!!! Electronics radio module and packaging in process DD.07.2022
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/11_overview.JPG)
 
@@ -92,7 +92,7 @@ Pushbutton 1 and Pushbutton 2, mounted on the top of the electronical circuit, a
 - No light barries
 - Servomotor and shutter is adjusted to the end positions.
 
-!!! Electronics Radio Module V??? in process DD.06.2022
+!!! Electronics radio module and packaging in process DD.07.2022
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG)
 
