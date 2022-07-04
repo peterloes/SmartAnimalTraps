@@ -106,7 +106,7 @@ The radio handheld transmitter is able to open and close the shutter, from a dis
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
 
-Current consumption:  
+### Current consumption:  
 
 Standby 20.5mA@9V with LEDs
 
@@ -131,7 +131,7 @@ https://github.com/peterloes/Servo_Engine
 The radio handheld transmitter is able to open and close the shutter, from a distance tested over 100 metres.
 
 
-Current consumption:  
+### Current consumption:  
 
 Standby      30mA@9V with LEDs
 
@@ -156,7 +156,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 !!! Electronics Radio Module V??? in process DD.06.2022
 
-Current consumption needed 500mA@9V for Servomotor!
+### Current consumption needed 500mA@9V for Servomotor!
 
 Smart nestbox frontplatte reuse 3.3V to max. 6V and lightbarrier circuit board 3.3V to max.60V 
 
@@ -189,7 +189,7 @@ Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
 
-Current consumption needed 500mA@9V for Servomotor!
+### Current consumption needed 500mA@9V for Servomotor!
 
 Electronic for lightBarrier ..@9V
 
@@ -221,7 +221,7 @@ Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
 
-Current consumption needed 500mA@9V for Servomotor!
+### Current consumption needed 500mA@9V for Servomotor!
 
 Smart nestbox frontplatte reused 3.3V to max. 6V and lightbarrier circuit board 3.3V to max.60V 
 
