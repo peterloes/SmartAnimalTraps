@@ -61,7 +61,7 @@ If both light barriers are triggered the Shutter will be closed.
 
 ## 1 RadiomoduleV?.? & electronicsLightbarriers & electronicsServo
 - Radio module 
-- Electronic lightbarrier for different distances.
+- Electronic lightbarriers for different distances.
 - Servomotor and shutter is adjusted to the end positions.
 
 !!! Electronics radio module and packaging in process DD.07.2022
@@ -89,7 +89,7 @@ Pushbutton 1 and Pushbutton 2, mounted on the top of the electronical circuit, a
 ## 2 RadiomoduleV2.0 & electronicsServo
 - Radio module
 - Electronics radio module V2.0
-- No light barries
+- No lightbarries
 - Servomotor and shutter is adjusted to the end positions.
 
 !!! Electronics radio module and packaging in process DD.07.2022
@@ -111,7 +111,7 @@ https://github.com/peterloes/Servo_Engine
 ## 3 RadiomoduleV1.5 & modifiedServo
 - Radio module
 - Electronics radio module V1.5
-- No light barries
+- No lightbarries
 - Full rotation of modified servomotor --> Motor rotation 360°
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModuleV1.5_ServoModified.JPG)
@@ -133,7 +133,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 ## 4 ReusedFrontplateLightBarriers & electronicsServo
 - Radio module
-- Reused frontplate nestbox with Lightbarriers
+- Reused frontplate nestbox with lightbarriers
 - Servomotor and shutter is adjusted to the end positions.
 
 !!! Electronics Radio Module V??? in process DD.06.2022
