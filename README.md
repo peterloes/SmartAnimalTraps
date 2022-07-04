@@ -189,13 +189,11 @@ Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
-
 ### Current consumption needed 500mA@9V for Servomotor:
 
 Electronic servomotor and electronic lightbarriers
 
 Two lightbarriers high level signals: 204µA@9V --- Two lightbarriers low level signals : 1.65mA@9V
-
 
 https://github.com/peterloes/Light_Barrier
 
@@ -232,6 +230,8 @@ Two high level signal: 100µA@13,2V -- Two low level signal: 1,45mA@13,2V
 
 
 https://github.com/peterloes/Servo_Engine
+
+
 
 ### EXTENSIONS
 
