@@ -68,16 +68,6 @@ If both light barriers are triggered the Shutter will be closed.
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/11_overview.JPG)
 
-Current consumption:
-
-Standby 20.8mA@9V with LEDs.
-
-Sleep mode 2.3mA@9V delay after 10 minutes.
-
-https://github.com/peterloes/Light_Barrier
-
-https://github.com/peterloes/Servo_Engine
-
 The radio handheld transmitter is able to open and close the shutter, from a distance tested over 100 metres.
 
 Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs a falling edge to 0V to close the shutter.
@@ -86,6 +76,17 @@ Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
+
+Current consumption:
+
+Standby 20.8mA@9V with LEDs.
+
+Sleep mode 2.3mA@9V delay after 10 minutes.
+
+
+https://github.com/peterloes/Light_Barrier
+
+https://github.com/peterloes/Servo_Engine
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
