@@ -18,9 +18,9 @@ whether the wireless communication was successful and receive information about 
 
 Examples after teaching the modules:
  
-Hand-held transmitter1-->Key1 --Trap1-->Shutter open__Hand-held transmitter1-->Key2 --Trap1-->Shutter closed
+Hand-held transmitter1-->Key1 --Trap1-->Shutter open__ Hand-held transmitter1-->Key2 --Trap1-->Shutter closed
 
-Hand-held transmitter1-->Key3 --Trap2-->Shutter open__Hand-held transmitter1-->Key4 --Trap2-->Shutter closed
+Hand-held transmitter1-->Key3 --Trap2-->Shutter open__ Hand-held transmitter1-->Key4 --Trap2-->Shutter closed
 
 or 
  
@@ -42,11 +42,11 @@ Asserting S3 the 4th time stores the servo parameters into FLASH and returns to 
 
 Examples for Shutterposition after adjust the end positions:
 
-Input Signal1 end position 1 --> Shutter open    ----    Input Signal2 end position 2 --> Shutter closed
+Input signal1 end position 1 --> Shutter open_____ Input signal2 end position 2 --> Shutter closed
 
 or 
 
-Pushbutton1 end position 1 --> Shutter open    ----    Pushbutton2 end position 2 --> Shutter closed
+Pushbutton1 end position 1   --> Shutter open_____ Pushbutton2 end position 2   --> Shutter closed
 
 
 #### Drive electronics for light barries:
