@@ -159,11 +159,11 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 Smart nestbox frontplatte reuse 3.3V to max. 6V and lightbarrier circuit board 3.3V to max.60V 
 
-Two high level Signal: 105µA@3,3V  -- Two low  level Signal: 1,47mA@3,3V
+Two high level signals: 105µA@3,3V  -- Two low level signals: 1,47mA@3,3V
 
-Two high level Signal: 100µA@5V    -- Two low  level Signal: 160µA@5V
+Two high level signals: 100µA@5V    -- Two low level signals:  160µA@5V
 
-Two high level Signal: 100µA@13,2V -- Two low  level Signal: 1,45mA@13,2V
+Two high level signals: 100µA@13,2V -- Two low level signals: 1,45mA@13,2V
 
 LINK!!! Electronics Radio Module V?? // In process DD.06.2022!!!
 
