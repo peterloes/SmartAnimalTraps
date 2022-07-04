@@ -59,10 +59,10 @@ Examples for light barriers:
 If both light barriers are triggered the Shutter will be closed.
 
 
-## 1_RadioModule_V?.?_&_ElectronicsLightBarriers_&_ElectronicsServo
-- Radio Module 
-- Electronic Lightbarrier for different distances.
-- Servomotor and Shutter is adjusted to the end positions.
+## 1_radiomodule_V?.?_&_electronicsLightbarriers_&_electronicsServo
+- Radio module 
+- Electronic lightbarrier for different distances.
+- Servomotor and shutter is adjusted to the end positions.
 
 !!! Electronics Radio Module V??? in process DD.06.2022
 
@@ -83,11 +83,11 @@ Pushbutton 1 and Pushbutton 2, mounted on the top of the electronical circuit, a
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-## 2_RadioModule_V2.0_&_ElectronicsServo
-- Radio Module
-- Electronics Radio Module V2.0
+## 2_radiomodule_V2.0_&_electronicsServo
+- Radio module
+- Electronics radio module V2.0
 - No light barries
-- Servomotor and Shutter is adjusted to the end positions.
+- Servomotor and shutter is adjusted to the end positions.
 
 !!! Electronics Radio Module V??? in process DD.06.2022
 
@@ -106,11 +106,11 @@ https://github.com/peterloes/Servo_Engine
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-## 3_RadioModule_V1.5_&_ServoModified
-- Radio Module
-- Electronics Radio Module V1.5
+## 3_radiomodule_V1.5_&_Servomodified
+- Radio module
+- Electronics radio module V1.5
 - No light barries
-- Full rotation of modified Servomotor --> Motor rotated 360°
+- Full rotation of modified servomotor --> Motor rotation 360°
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModuleV1.5_ServoModified.JPG)
 
@@ -130,10 +130,10 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-## 4_ReusedFrontplateLightBarriers_&_ElectronicsServo
-- Radio Module
+## 4_reusedFrontplateLightBarriers_&_electronicsServo
+- Radio module
 - Reused frontplate nestbox with Lightbarriers
-- Servomotor and Shutter is adjusted to the end positions.
+- Servomotor and shutter is adjusted to the end positions.
 
 !!! Electronics Radio Module V??? in process DD.06.2022
 
@@ -154,22 +154,22 @@ https://github.com/peterloes/Servo_Engine
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-## 5_ElectronicsLightBarriers_&_ElectronicsServo
+## 5_electronicsLightBarriers_&_electronicsServo
 - No radio module
-- Electronic Lightbarriers are switching Shutterpositions.
-- Servomotor and Shutter is adjusted to the end positions.
+- Electronic lightbarriers are switching shutterpositions.
+- Servomotor and shutter is adjusted to the end positions.
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg)
 
 Current consumption needed 500mA@9V for Servomotor!
 
-Electronic for LightBarrier ..@9V
+Electronic for lightBarrier ..@9V
 
-Electronic Servomotor and Electronic LightBarrier
+Electronic servomotor and electronic lightBarrier
 
-With two lightbarrier high level Signal: 204µA@9V -- Two lightbarrier low level Signal : 1.65mA@9V
+With two lightbarrier high level signal: 204µA@9V -- Two lightbarrier low level signal : 1.65mA@9V
 
-Receiver Vishay "TSSP58038" and LED Vishay "VSLB3940" and LightBarrier circuit board 3.3V to max.60V 
+Receiver Vishay "TSSP58038" and LED Vishay "VSLB3940" and lightbarrier circuit board 3.3V to max.60V 
 
 
 https://github.com/peterloes/Light_Barrier
@@ -177,24 +177,24 @@ https://github.com/peterloes/Light_Barrier
 https://github.com/peterloes/Servo_Engine
 
 
-## 6_ReusedFrontplateLightBarriers_&_ElectronicsServo
-- No Radio Module
-- Reused frontplate from nestbox with Lightbarriers are switching Shutterpositions.
-- Servomotor and Shutter is adjusted to the end positions.
+## 6_reusedFrontplateLightBarriers_&_electronicsServo
+- No Radio module
+- Reused frontplate from nestbox with lightbarriers are switching shutterpositions.
+- Servomotor and shutter is adjusted to the end positions.
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/6_ReusedFrontplateLightBarriers_ElectronicsServo.JPG)
 
 Current consumption needed 500mA@9V for Servomotor!
 
-Smart Nestbox Frontplatte reuse 3.3V to max. 6V and LightBarrier circuit board 3.3V to max.60V 
+Smart Nestbox Frontplatte reuse 3.3V to max. 6V and lightBarrier circuit board 3.3V to max.60V 
 
 !!! repeat measurements DD.06.2022
 
-Two high level Signal: 105µA@3,3V  -- Two low  level Signal: 1,47mA@3,3V
+Two high level signal: 105µA@3,3V  -- Two low level signal: 1,47mA@3,3V
 
-Two high level Signal: 100µA@5V    -- Two low  level Signal: 160µA@5V
+Two high level signal: 100µA@5V    -- Two low level signal: 160µA@5V
 
-Two high level Signal: 100µA@13,2V -- Two low  level Signal: 1,45mA@13,2V
+Two high level signal: 100µA@13,2V -- Two low level signal: 1,45mA@13,2V
 
 
 https://github.com/peterloes/Servo_Engine
