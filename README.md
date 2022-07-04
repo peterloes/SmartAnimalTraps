@@ -71,6 +71,7 @@ If both light barriers are triggered the Shutter will be closed.
 Current consumption:
 
 Standby 20.8mA@9V with LEDs.
+
 Sleep mode 2.4mA@9V delay after 10 minutes.
 
 https://github.com/peterloes/Light_Barrier
@@ -78,8 +79,11 @@ https://github.com/peterloes/Light_Barrier
 https://github.com/peterloes/Servo_Engine
 
 The radio handheld transmitter is able to open and close the shutter, from a distance tested over 100 metres.
+
 Lightbarrier 1 and lightbarrier 2 are connected with Logic AND. Both Lightbarrier needs a falling edge to 0V to close the shutter.
+
 Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
+
 Pushbutton 1 and Pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
 
@@ -99,6 +103,7 @@ Pushbutton 1 and Pushbutton 2, mounted on the top of the electronical circuit, a
 Current consumption:  
 
 Standby 20.5mA@9V with LEDs
+
 Sleep mode 2.2mA@9V delay after 10 minutes.
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/Radio_Module_V2.0.brd.pdf
@@ -117,7 +122,9 @@ https://github.com/peterloes/Servo_Engine
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModuleV1.5_ServoModified.JPG)
 
 Current consumption:  
+
 Standby      30mA@9V with LEDs
+
 Sleep mode 11.5mA@9V delay after 10 minutes.
 
 Motor is steady turning 188mA@9V
@@ -187,7 +194,7 @@ https://github.com/peterloes/Servo_Engine
 
 Current consumption needed 500mA@9V for Servomotor!
 
-Smart nestbox frontplatte reuse 3.3V to max. 6V and lightbarrier circuit board 3.3V to max.60V 
+Smart nestbox frontplatte reused 3.3V to max. 6V and lightbarrier circuit board 3.3V to max.60V 
 
 !!! repeat measurements DD.06.2022
 
