@@ -233,7 +233,7 @@ Two high level signal: 100µA@13,2V -- Two low level signal: 1,45mA@13,2V
 
 https://github.com/peterloes/Servo_Engine
 
-EXTENSIONS:
+#### EXTENSIONS
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/SailwinchServo.jpg
 
