@@ -101,11 +101,17 @@ https://github.com/peterloes/Servo_Engine
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG)
 
+The radio handheld transmitter is able to open and close the shutter, from a distance tested over 100 metres.
+
+Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
+
+
 Current consumption:  
 
 Standby 20.5mA@9V with LEDs
 
 Sleep mode 2.2mA@9V delay after 10 minutes.
+
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/Radio_Module_V2.0.brd.pdf
 
