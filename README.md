@@ -66,6 +66,8 @@ If both light barriers are triggered the Shutter will be closed.
 
 !!! Electronics Radio Module V??? in process DD.06.2022
 
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/11_overview.JPG)
+
 Current consumption:
 
 Standby 20.8mA@9V with LED Clocking after 10 minutes. Standby 2.4mA@9V
