@@ -53,6 +53,8 @@ Pushbutton1 end position 1   --> Shutter open_____ Pushbutton2 end position 2   
 
 Supported two low power lightbarriers, adjustable for different distances(size of animal) 10centimetres to tested 3.3metres. 
 The beam is scattered light independently and invisible.
+Wide power input range of lightbarrier circuit board 3.3V to max.60V. Used receiver from Vishay "TSSP58038" and LED from Vishay "VSLB3940".
+
 
 Examples for lightbarriers:
 
@@ -188,15 +190,11 @@ Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
 
-### Current consumption needed 500mA@9V for Servomotor!
+### Current consumption needed 500mA@9V for Servomotor:
 
-Electronic for lightBarrier ..@9V
+Electronic servomotor and electronic lightbarriers
 
-Electronic servomotor and electronic lightBarrier
-
-With two lightbarrier high level signal: 204µA@9V -- Two lightbarrier low level signal : 1.65mA@9V
-
-Receiver Vishay "TSSP58038" and LED Vishay "VSLB3940" and lightbarrier circuit board 3.3V to max.60V 
+Two lightbarriers high level signals: 204µA@9V --- Two lightbarriers low level signals : 1.65mA@9V
 
 
 https://github.com/peterloes/Light_Barrier
