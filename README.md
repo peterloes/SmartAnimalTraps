@@ -15,7 +15,6 @@ Teaching of a transmitter is carried out very easily by means of a button.
 As required, up to 60 transmitters can be taught with all keys or individual transmission keys.
 The particular highlight is the feedback from the receiver. You can see from the transmitter
 whether the wireless communication was successful and receive information about the quality of the transmission path.
-Long range.
 
 Examples after teaching the modules:
  
