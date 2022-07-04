@@ -59,7 +59,7 @@ Examples for light barriers:
 If both light barriers are triggered the Shutter will be closed.
 
 
-## 1_RadioModule_&_ElectronicsLightBarriers_&_ElectronicsServo 
+## 1_RadioModule_V?.?_&_ElectronicsLightBarriers_&_ElectronicsServo
 - Radio Module 
 - Electronic Lightbarrier for different distances.
 - Servomotor and Shutter is adjusted to the end positions.
