@@ -180,6 +180,15 @@ https://github.com/peterloes/Servo_Engine
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg)
 
+Lightbarrier 1 and lightbarrier 2 are able to open and close the shutter.
+
+Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs then a falling edge to 0V to close the shutter.
+
+Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
+
+Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
+
+
 Current consumption needed 500mA@9V for Servomotor!
 
 Electronic for lightBarrier ..@9V
@@ -202,6 +211,15 @@ https://github.com/peterloes/Servo_Engine
 - Servomotor and shutter is adjusted to the end positions.
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/6_ReusedFrontplateLightBarriers_ElectronicsServo.JPG)
+
+Lightbarrier 1 and lightbarrier 2 are able to open and close the shutter.
+
+Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs then a falling edge to 0V to close the shutter.
+
+Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
+
+Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
+
 
 Current consumption needed 500mA@9V for Servomotor!
 
