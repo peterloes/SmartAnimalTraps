@@ -70,7 +70,8 @@ If both light barriers are triggered the Shutter will be closed.
 
 Current consumption:
 
-Standby 20.8mA@9V with LED Clocking after 10 minutes. Standby 2.4mA@9V
+Standby 20.8mA@9V with LEDs.
+Sleep mode 2.4mA@9V delay after 10 minutes.
 
 https://github.com/peterloes/Light_Barrier
 
@@ -97,9 +98,8 @@ Pushbutton 1 and Pushbutton 2, mounted on the top of the electronical circuit, a
 
 Current consumption:  
 
-Standby 20.5mA@9V with LED
-Clocking after 10 minutes.
-Standby 2.2mA@9V
+Standby 20.5mA@9V with LEDs
+Sleep mode 2.2mA@9V delay after 10 minutes.
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/Radio_Module_V2.0.brd.pdf
 
@@ -117,9 +117,8 @@ https://github.com/peterloes/Servo_Engine
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModuleV1.5_ServoModified.JPG)
 
 Current consumption:  
-Standby 30mA@9V with LED
-Clocking after 10 minutes.
-Standby 11.5mA@9V with LED
+Standby      30mA@9V with LEDs
+Sleep mode 11.5mA@9V delay after 10 minutes.
 
 Motor is steady turning 188mA@9V
 
@@ -141,7 +140,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 Current consumption needed 500mA@9V for Servomotor!
 
-Smart Nestbox Frontplatte reuse 3.3V to max. 6V and LightBarrier circuit board 3.3V to max.60V 
+Smart nestbox frontplatte reuse 3.3V to max. 6V and lightbarrier circuit board 3.3V to max.60V 
 
 Two high level Signal: 105µA@3,3V  -- Two low  level Signal: 1,47mA@3,3V
 
@@ -188,7 +187,7 @@ https://github.com/peterloes/Servo_Engine
 
 Current consumption needed 500mA@9V for Servomotor!
 
-Smart Nestbox Frontplatte reuse 3.3V to max. 6V and lightBarrier circuit board 3.3V to max.60V 
+Smart nestbox frontplatte reuse 3.3V to max. 6V and lightbarrier circuit board 3.3V to max.60V 
 
 !!! repeat measurements DD.06.2022
 
