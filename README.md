@@ -68,9 +68,13 @@ If both light barriers are triggered the Shutter will be closed.
 
 Current consumption:
 
+Standby 20.8mA@9V with LED Clocking after 10 minutes. Standby 2.5mA@9V
+
 https://github.com/peterloes/Light_Barrier
 
 https://github.com/peterloes/Servo_Engine
+
+Lightbarrier 1 and lightbarrier 2 are connected with Logic AND. Both Lightbarrier needs level 0V to trigger the shutter closed. 
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
