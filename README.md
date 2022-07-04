@@ -51,8 +51,7 @@ Pushbutton1 end position 1   --> Shutter open_____ Pushbutton2 end position 2   
 
 #### Drive electronics for light barries:
 
-Supported two low power lightbarriers, adjustable for different distances(size of animal) 10cm to tested 3.3metres.
-
+Supported two low power lightbarriers, adjustable for different distances(size of animal) 10centimetres to tested 3.3metres. 
 The beam is scattered light independently and invisible.
 
 Examples for light barriers:
