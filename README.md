@@ -155,7 +155,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 !!! Electronics Radio Module V??? in process DD.06.2022
 
-### Current consumption needed 500mA@9V for Servomotor!
+### Current consumption needed 500mA@9V for Servomotor:
 
 Smart nestbox frontplatte reuse 3.3V to max. 6V and lightbarrier circuit board 3.3V to max.60V 
 
