@@ -56,7 +56,7 @@ The beam is scattered light independently and invisible.
 
 Examples for lightbarriers:
 
-Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs a falling edge to 0V to close the shutter.
+Lightbarrier 1 and lightbarrier 2 can connected with logic AND. Both lightbarriers needs then a falling edge to 0V to close the shutter.
 
 
 ## 1 RadiomoduleV?.? & electronicsLightbarriers & electronicsServo
@@ -70,7 +70,7 @@ Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarrie
 
 The radio handheld transmitter is able to open and close the shutter, from a distance tested over 100 metres.
 
-Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs a falling edge to 0V to close the shutter.
+Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs then a falling edge to 0V to close the shutter.
 
 Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
 
