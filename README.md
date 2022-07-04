@@ -68,7 +68,7 @@ If both light barriers are triggered the Shutter will be closed.
 
 Current consumption:
 
-Standby 20.8mA@9V with LED Clocking after 10 minutes. Standby 2.5mA@9V
+Standby 20.8mA@9V with LED Clocking after 10 minutes. Standby 2.4mA@9V
 
 https://github.com/peterloes/Light_Barrier
 
