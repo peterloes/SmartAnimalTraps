@@ -72,7 +72,7 @@ Current consumption:
 
 Standby 20.8mA@9V with LEDs.
 
-Sleep mode 2.4mA@9V delay after 10 minutes.
+Sleep mode 2.3mA@9V delay after 10 minutes.
 
 https://github.com/peterloes/Light_Barrier
 
