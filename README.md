@@ -113,8 +113,7 @@ Standby 20.5mA@9V with LEDs
 
 Sleep mode 2.2mA@9V delay after 10 minutes.
 
-
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/Radio_Module_V2.0.brd.pdf
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V2.0.brd.pdf
 
 https://github.com/peterloes/Servo_Engine
 
