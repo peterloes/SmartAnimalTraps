@@ -61,8 +61,8 @@ Examples for lightbarriers:
 Lightbarrier 1 and lightbarrier 2 can connected with logic AND. Both lightbarriers needs then a falling edge to 0V to close the shutter.
 
 
-## 1 RadiomoduleV3.0 & electronicsLightbarriers & electronicsServo
-- Radio module add-on board 
+## 1 RadiomoduleV1.0 & electronicsLightbarriers & electronicsServo
+- Radio module V1.0 add-on board 
 - Electronic lightbarriers for different distances.
 - Servomotor and shutter is adjusted to the end positions.
 
@@ -93,7 +93,7 @@ https://github.com/peterloes/Servo_Engine
 
 
 ## 2 RadiomoduleV2.0 & electronicsServo
-- Radio module
+- Radio module V2.0 add-on board
 - Electronics radio module V2.0
 - No lightbarries
 - Servomotor and shutter is adjusted to the end positions.
@@ -121,9 +121,8 @@ https://github.com/peterloes/Servo_Engine
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-## 3 RadiomoduleV1.5 & modifiedServo
-- Radio module
-- Electronics radio module V1.5
+## 3 RadiomoduleV3.0 & modifiedServo
+- Radio module V3.0 add-on board
 - No lightbarries
 - Full rotation of modified servomotor --> Motor rotation 360°
 
