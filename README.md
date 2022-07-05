@@ -139,9 +139,7 @@ Sleep mode 11.5mA@9V delay after 10 minutes.
 Motor is steady turning 188mA@9V
 
 
-LINK!!! Electronics Radio Module V2.0 // In process DD.06.2022!!!
-
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/32_RadioModule_V1.5.JPG
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V3.0.brd.pdf
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/33_Servo_modified.JPG
 
