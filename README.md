@@ -61,8 +61,8 @@ Examples for lightbarriers:
 Lightbarrier 1 and lightbarrier 2 can connected with logic AND. Both lightbarriers needs then a falling edge to 0V to close the shutter.
 
 
-## 1 RadiomoduleV?.? & electronicsLightbarriers & electronicsServo
-- Radio module 
+## 1 RadiomoduleV3.0 & electronicsLightbarriers & electronicsServo
+- Radio module add-on board 
 - Electronic lightbarriers for different distances.
 - Servomotor and shutter is adjusted to the end positions.
 
