@@ -96,7 +96,7 @@ https://github.com/peterloes/Servo_Engine
 !!! Packaging in process DD.07.2022 !!!
 
 ## 2 RadiomoduleV2.0 & electronicsServo
-- Radio module V2.0 add-on board
+- Radio module V2.0 add-on board (not illustrated) 
 - No lightbarries
 - Servomotor and shutter is adjusted to the end positions.
 
