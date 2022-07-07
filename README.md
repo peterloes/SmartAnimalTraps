@@ -63,7 +63,7 @@ Lightbarrier 1 and lightbarrier 2 can connected with logic AND. Both lightbarrie
 
 
 ## 1 RadiomoduleV1.0 & electronicsLightbarriers & electronicsServo
-- Radio module V1.0 add-on board 
+- Radio module V1.0 add-on board (not illustrated)
 - Electronic lightbarriers for different distances.
 - Servomotor and shutter is adjusted to the end positions.
 
