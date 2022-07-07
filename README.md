@@ -66,7 +66,7 @@ Lightbarrier 1 and lightbarrier 2 can connected with logic AND. Both lightbarrie
 - Electronic lightbarriers for different distances.
 - Servomotor and shutter is adjusted to the end positions.
 
-!!! Electronics radio module and packaging in process DD.07.2022
+!!! Packaging in process DD.07.2022 !!!
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/11_overview.JPG)
 
@@ -98,7 +98,7 @@ https://github.com/peterloes/Servo_Engine
 - No lightbarries
 - Servomotor and shutter is adjusted to the end positions.
 
-!!! Electronics radio module and packaging in process DD.07.2022
+!!! Packaging in process DD.07.2022 !!!
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG)
 
@@ -151,7 +151,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 - Reused frontplate nestbox with lightbarriers
 - Servomotor and shutter is adjusted to the end positions.
 
-!!! Electronics Radio Module V??? in process DD.06.2022
+!!! Electronics Radio Module V??? and packaging in process DD.07.2022 !!!
 
 ### Current consumption needed 500mA@9V for Servomotor:
 
