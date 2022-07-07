@@ -72,7 +72,7 @@ Lightbarrier 1 and lightbarrier 2 can connected with logic AND. Both lightbarrie
 
 The radio handheld transmitter is able to open and close the shutter, from a distance tested over 100 metres.
 
-Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs a falling edge to 0V to close the shutter.
+Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs a falling edge 0V to close the shutter.
 
 Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
 
@@ -80,9 +80,10 @@ Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, a
 
 ### Current consumption:
 
-Standby 20.8mA@9V with LEDs.
+Standby 20.8mA@9V.
 
 Sleep mode 2.3mA@9V delay after 10 minutes.
+
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V1.0.brd.pdf
 
