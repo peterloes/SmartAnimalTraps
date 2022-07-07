@@ -102,7 +102,7 @@ https://github.com/peterloes/Servo_Engine
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG)
 
-The radio handheld transmitter is able to open and close the shutter, from a distance tested over 100 metres.
+The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
