@@ -84,6 +84,7 @@ Standby 20.8mA@9V with LEDs.
 
 Sleep mode 2.3mA@9V delay after 10 minutes.
 
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V1.0.brd.pdf
 
 https://github.com/peterloes/Light_Barrier
 
