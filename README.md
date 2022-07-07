@@ -83,6 +83,7 @@ Standby 20.8mA@9V.
 
 Sleep mode 2.3mA@9V delay after 10 minutes.
 
+### Components:
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V1.0.brd.pdf
 
@@ -112,6 +113,8 @@ Standby 20.5mA@9V with LEDs
 
 Sleep mode 2.2mA@9V delay after 10 minutes.
 
+### Components:
+
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V2.0.brd.pdf
 
 https://github.com/peterloes/Servo_Engine
@@ -138,6 +141,7 @@ Sleep mode 11.5mA@9V delay after 10 minutes.
 
 Motor is steady turning 188mA@9V
 
+### Components:
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V3.0.brd.pdf
 
@@ -160,6 +164,8 @@ Two high level signals: 105µA@3,3V  -- Two low level signals: 1,47mA@3,3V
 Two high level signals: 100µA@5V    -- Two low level signals:  160µA@5V
 
 Two high level signals: 100µA@13,2V -- Two low level signals: 1,45mA@13,2V
+
+### Components:
 
 LINK!!! Electronics Radio Module V?? // In process DD.06.2022!!!
 
@@ -189,6 +195,8 @@ Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, a
 Electronic servomotor and electronic lightbarriers
 
 Two lightbarriers high level signals: 204µA@9V --- Two lightbarriers low level signals : 1.65mA@9V
+
+### Components:
 
 https://github.com/peterloes/Light_Barrier
 
@@ -223,10 +231,9 @@ Two high level signal: 100µA@5V    -- Two low level signal: 160µA@5V
 
 Two high level signal: 100µA@13,2V -- Two low level signal: 1,45mA@13,2V
 
+### Components:
 
 https://github.com/peterloes/Servo_Engine
-
-
 
 ### EXTENSIONS
 
