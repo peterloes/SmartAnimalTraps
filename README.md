@@ -71,7 +71,7 @@ Lightbarrier 1 and lightbarrier 2 can connected with logic AND. Both lightbarrie
 
 The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
 
-Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs a falling edge 0V to close the shutter.
+Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs a falling edge (to 0V) to close the shutter.
 
 Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
 
