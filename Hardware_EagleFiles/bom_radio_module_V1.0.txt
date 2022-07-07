@@ -1,0 +1,24 @@
+Stückliste exportiert aus C:/MPIO/TECHNIK/HARDWARE/EAGLE_FILES/Wireless_Servo_2022/radio_module_V1.0.sch am 07.07.2022 10:13
+
+Part Value        Device       Package Description                                              
+C1   100n         C-EUC0805    C0805   CAPACITOR, European symbol                               
+C2   100n         C-EUC0805    C0805   CAPACITOR, European symbol                               
+C3   100n         C-EUC0805    C0805   CAPACITOR, European symbol                               
+C4   100n         C-EUC0805    C0805   CAPACITOR, European symbol                               
+IC1  74AHC1G04DBV 74AHC1G04DBV SOT23-5 INVERTER Gate                                            
+IC2  74AHC1G04DBV 74AHC1G04DBV SOT23-5 INVERTER Gate                                            
+IC3  74AHC1G08DBV 74AHC1G08DBV SOT23-5 2-input AND gate                                         
+IC4  74AHC1G32DBV 74AHC1G32DBV SOT23-5 2-input OR gate                                          
+JP1               PINHD-1X2    1X02    PIN HEADER (Pin Strip Header Single 2.54mm Herst.: 929834-01-36-RK)                                              
+JP2               PINHD-1X5    1X05    PIN HEADER (Pin Strip Header Single 2.54mm Herst.: 929834-01-36-RK)                                              
+JP3               PINHD-1X12   1X12    PIN HEADER (Pin Strip Header Single 2.54mm Herst.: 929834-01-36-RK)                                              
+JP4  (n.b.)       PINHD-1X2    1X02    PIN HEADER                                               
+R1   100k(n.b.)   R-EU_R0805   R0805   RESISTOR, European symbol                                
+R2   100k(n.b.)   R-EU_R0805   R0805   RESISTOR, European symbol                                
+R3   100k(n.b.)   R-EU_R0805   R0805   RESISTOR, European symbol                                
+R4   100k(n.b.)   R-EU_R0805   R0805   RESISTOR, European symbol                                
+R5   100k(n.b.)   R-EU_R0805   R0805   RESISTOR, European symbol                                
+X1   MKDS1/2-3,81 MKDS1/2-3,81 2POL381 MKDS 1/2-3,81 - Order No. 1727010 (RS-Online - 101-5384) 
+X2   MKDS1/3-3,81 MKDS1/3-3,81 3POL381 MKDS 1/3-3,81 - Order No. 1727023 (RS-Online - 101-5390) 
+X3   MKDS1/3-3,81 MKDS1/3-3,81 3POL381 MKDS 1/3-3,81 - Order No. 1727023 (RS-Online - 101-5390) 
+X4   MKDS1/4-3,81 MKDS1/4-3,81 4POL381 MKDS 1/4-3,81 - Order No. 1727036                        
