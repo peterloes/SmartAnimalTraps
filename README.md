@@ -121,7 +121,7 @@ https://github.com/peterloes/Servo_Engine
 
 
 ## 3 RadiomoduleV3.0 & modifiedServo
-- Radio module V3.0 add-on board
+- Radio module V3.0 add-on board (to revision from year 2010)
 - No lightbarries
 - Full rotation of modified servomotor --> Motor rotation 360°
 
