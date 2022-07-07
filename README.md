@@ -71,7 +71,7 @@ Lightbarrier 1 and lightbarrier 2 can connected with logic AND. Both lightbarrie
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/11_overview.JPG)
 
-The radio handheld transmitter is able to open and close the shutter, from a distance tested over 100 metres.
+The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
 
 Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs a falling edge 0V to close the shutter.
 
