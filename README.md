@@ -67,7 +67,7 @@ Lightbarrier 1 and lightbarrier 2 can connected with logic AND. Both lightbarrie
 - Electronic lightbarriers for different distances.
 - Servomotor and shutter is adjusted to the end positions.
 
-![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/11_overview.JPG)
+![My image] (https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/11_overview.jpg)
 
 The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
 
