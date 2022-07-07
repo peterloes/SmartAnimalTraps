@@ -151,9 +151,18 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 
 ## 4 ReusedFrontplateLightBarriers & electronicsServo
-- Radio module
+- Radio module add-on board
 - Reused frontplate nestbox with lightbarriers
 - Servomotor and shutter is adjusted to the end positions.
+
+
+The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
+
+Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs a falling edge (to 0V) to close the shutter.
+
+Lightbarrier 1 and lightbarrier 2 is forbidden to open the Shutter.
+
+Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
 ### Current consumption needed 500mA@9V for Servomotor:
 
