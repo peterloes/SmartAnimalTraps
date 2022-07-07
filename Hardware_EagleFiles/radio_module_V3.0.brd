@@ -64,7 +64,7 @@
 <wire x1="60" y1="0" x2="60" y2="50" width="0" layer="20"/>
 <wire x1="60" y1="50" x2="0" y2="50" width="0" layer="20"/>
 <wire x1="0" y1="50" x2="0" y2="0" width="0" layer="20"/>
-<text x="29.5275" y="4.445" size="1.016" layer="25">radio_module_2022_V3.0</text>
+<text x="29.5275" y="4.445" size="1.016" layer="25">radio_module_2010_V3.0</text>
 <text x="8.255" y="45.085" size="0.6096" layer="25" font="vector" rot="R90">Vdd</text>
 <text x="8.255" y="41.275" size="0.6096" layer="25" font="vector" rot="R90">GND</text>
 <text x="38.735" y="28.2575" size="1.27" layer="25" rot="R180">IC2</text>
@@ -82,8 +82,8 @@
 <hole x="57.4675" y="2.54" drill="3.2"/>
 <hole x="11.43" y="2.54" drill="3.2"/>
 <hole x="11.43" y="47.3075" drill="3.2"/>
-<text x="38.1" y="46.355" size="0.8128" layer="1">PL05092022</text>
-<text x="45.4025" y="46.355" size="0.8128" layer="16" rot="MR0">PL05092022</text>
+<text x="38.1" y="46.355" size="0.8128" layer="1">PL05092010</text>
+<text x="45.4025" y="46.355" size="0.8128" layer="16" rot="MR0">PL05092010</text>
 <text x="29.5275" y="46.355" size="0.8128" layer="1">BS</text>
 <text x="30.7975" y="46.355" size="0.8128" layer="16" rot="MR0">LS</text>
 </plain>
