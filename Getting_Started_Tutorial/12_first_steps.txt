@@ -1,0 +1,26 @@
+Servomotor electronics
+
+Logic module is wired to S2.
+Radiomodule is wired to D1_CMOS.
+
+Circuit board: https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V1.0.sch.pdf
+
+
+Shutter will be at the beginning always closed!
+
+1. Programming servomotor position shutter open
+2. Programming servomotor position shutter closed
+3. Shutter speed
+
+- Reconnection the Servo electronic-board -- > Shutter should move to closed.
+- Press hand-held transmitter button 2 for open the shutter.
+
+
+hand-held transmitter
+
+- Button 1 is to close the shutter.
+- Button 2 is to open the shutter.
+
+ 
+
+ 
