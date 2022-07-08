@@ -83,7 +83,7 @@ Standby 20.8mA@6V.
 
 Sleep mode 2.3mA@6V delay after 10 minutes.
 
-Operate mode 238mA@6V (max.).
+Operate mode 320mA@6V (max.).
 
 ### Components:
 
