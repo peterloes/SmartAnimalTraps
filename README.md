@@ -156,6 +156,8 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/33_Servo_modified.JPG
 
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/34_old_batterypack.JPG
+
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
