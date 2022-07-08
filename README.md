@@ -17,6 +17,8 @@ The particular highlight is the feedback from the receiver. You can see from the
 whether the wireless communication was successful and receive information about the quality of the transmission path.
 Electronical release range of 70 metres tested in urban environment. 
 
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/13_wireless_radiomodule_handheld.JPG
+
 Examples after teaching the modules:
  
 Hand-held transmitter1-->Key1 --Trap1-->Shutter closed__ Hand-held transmitter1-->Key2 --Trap1-->Shutter open
@@ -41,6 +43,8 @@ Adjust end position 2. This is the opposite end position to position 1.
 Adjust servo speed. The servo permanently moves between the two end points. The speed can be adjusted via S1 and S2.
 Asserting S3 the 4th time stores the servo parameters into FLASH and returns to normal operation
 
+.https://github.com/peterloes/Servo_Engine
+
 Examples for shutterposition after adjust the end positions:
 
 Pushbutton 1 end position 1 --> Shutter open_____ Pushbutton2 end position 2 --> Shutter closed
@@ -54,8 +58,9 @@ Input signal 1(radiomodule D1) end position 1 --> Shutter open_____ Input signal
 
 Supported two low power light barriers, adjustable for different distances(size of animal) 10 centimetres to tested 3.3 metres. 
 The beam is scattered light independently and invisible.
-Wide power input range of light barrier circuit board 3.3V to max.60V. Used receiver from Vishay "TSSP58038" and LED from Vishay "VSLB3940".
+Wide power input range of light barrier circuit board 3.3V to max.60V. Used receiver from Vishay "TSSP58038" and LED from Vishay "VSLB3940"
 
+https://github.com/peterloes/Light_Barrier
 
 Examples for light barriers:
 
