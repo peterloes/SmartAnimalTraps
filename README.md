@@ -1,6 +1,6 @@
 # SmartAnimalTraps
 Electrical applications for non-deadly animal traps built up with intelligent radio module, drive electronics for servomotors
-(flapdrive) and drive electronics for different low power lightbarriers.
+(flapdrive) and drive electronics for different low power light barriers.
 
 Author: Loës P. (2022)
 
@@ -52,7 +52,7 @@ Input signal 1(radiomodule D1) end position 1 --> Shutter open_____ Input signal
 
 #### Drive electronics for light barriers:
 
-Supported two low power light barriers, adjustable for different distances(size of animal) 10centimetres to tested 3.3metres. 
+Supported two low power light barriers, adjustable for different distances(size of animal) 10 centimetres to tested 3.3 metres. 
 The beam is scattered light independently and invisible.
 Wide power input range of light barrier circuit board 3.3V to max.60V. Used receiver from Vishay "TSSP58038" and LED from Vishay "VSLB3940".
 
@@ -73,7 +73,7 @@ The radio handheld transmitter is able to open and close the shutter. Electronic
 
 Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge (to 0V) to close the shutter.
 
-Light barrier 1 and light barrier 2 is forbidden to open the Shutter.
+Light barrier 1 and light barrier 2 is forbidden to open the shutter.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
@@ -163,7 +163,7 @@ The radio handheld transmitter is able to open and close the shutter. Electronic
 
 Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge (to 0V) to close the shutter.
 
-Light barrier 1 and light barrier 2 is forbidden to open the Shutter.
+Light barrier 1 and light barrier 2 is forbidden to open the shutter.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
@@ -198,7 +198,7 @@ Light barrier 1 and light barrier 2 are able to open and close the shutter.
 
 Light barrier 1 and light barrier 2 are connected with logic AND. Both lightbarriers needs a falling edge to 0V to close the shutter.
 
-Light barrier 1 and light barrier 2 is forbidden to open the Shutter.
+Light barrier 1 and light barrier 2 is forbidden to open the shutter.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
@@ -226,7 +226,7 @@ Light barrier 1 and light barrier 2 are able to open and close the shutter.
 
 Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge to 0V to close the shutter.
 
-Light barrier 1 and light barrier 2 is forbidden to open the Shutter.
+Light barrier 1 and light barrier 2 is forbidden to open the shutter.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
