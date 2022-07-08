@@ -12,7 +12,7 @@ Shutter will be at the beginning always closed!
 2. Programming servomotor position shutter closed
 3. Shutter speed
 
-- Reconnection the Servo electronic-board -- > Shutter should move to closed.
+- Reconnect the servo electronic-board -- > Shutter should move to closed.
 - Press hand-held transmitter button 2 for open the shutter.
 
 
