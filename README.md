@@ -19,9 +19,9 @@ Electronical release range of 70 metres tested in urban environment.
 
 Examples after teaching the modules:
  
-Hand-held transmitter1-->Key1 --Trap1-->Shutter open__ Hand-held transmitter1-->Key2 --Trap1-->Shutter closed
+Hand-held transmitter1-->Key1 --Trap1-->Shutter closed__ Hand-held transmitter1-->Key2 --Trap1-->Shutter open
 
-Hand-held transmitter1-->Key3 --Trap2-->Shutter open__ Hand-held transmitter1-->Key4 --Trap2-->Shutter closed
+Hand-held transmitter1-->Key3 --Trap2-->Shutter closed__ Hand-held transmitter1-->Key4 --Trap2-->Shutter open
 
 or 
  
