@@ -25,9 +25,9 @@ Hand-held transmitter1-->Key3 --Trap2-->Shutter closed__ Hand-held transmitter1-
 
 or 
  
-Hand-held transmitter2 --> Key1 -- Trap1-Trap2-Trap3-Trap4 --> Shutter open
+Hand-held transmitter2 --> Key1 -- Trap1-Trap2-Trap3-Trap4 --> Shutter closed
 
-Hand-held transmitter2 --> Key2 -- Trap1-Trap2-Trap3-Trap4 --> Shutter closed
+Hand-held transmitter2 --> Key2 -- Trap1-Trap2-Trap3-Trap4 --> Shutter open
 
 
 #### Drive electronics for servomotor and flap:
