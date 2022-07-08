@@ -20,7 +20,3 @@ hand-held transmitter
 
 - Button 1 is to close the shutter.
 - Button 2 is to open the shutter.
-
- 
-
- 
