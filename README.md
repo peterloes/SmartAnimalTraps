@@ -43,11 +43,11 @@ Asserting S3 the 4th time stores the servo parameters into FLASH and returns to 
 
 Examples for shutterposition after adjust the end positions:
 
-Input signal1 end position 1 --> Shutter open_____ Input signal2 end position 2 --> Shutter closed
+Pushbutton 1 end position 1 --> Shutter open_____ Pushbutton2 end position 2 --> Shutter closed
 
-or 
+or
 
-Pushbutton1 end position 1   --> Shutter open_____ Pushbutton2 end position 2   --> Shutter closed
+Input signal 1(radiomodule D1) end position 1 --> Shutter open_____ Input signal 2(logic module) end position 2 --> Shutter closed
 
 
 #### Drive electronics for light barries:
@@ -59,7 +59,7 @@ Wide power input range of lightbarrier circuit board 3.3V to max.60V. Used recei
 
 Examples for lightbarriers:
 
-Lightbarrier 1 and lightbarrier 2 can connected with logic AND. Both lightbarriers needs then a falling edge to 0V to close the shutter.
+Lightbarrier 1 and lightbarrier 2 are connected with logic AND. Both lightbarriers needs then a falling edge to 0V to close the shutter.
 
 
 ## 1 RadiomoduleV1.0 & electronicsLightbarriers & electronicsServo
