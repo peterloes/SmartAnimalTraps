@@ -59,7 +59,7 @@ Wide power input range of light barrier circuit board 3.3V to max.60V. Used rece
 
 Examples for light barriers:
 
-Light barrier 1 and light barrier 2 are connected with logic AND. Both lightbarriers needs then a falling edge to 0V to close the shutter.
+Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs then a falling edge to 0V to close the shutter.
 
 
 ## 1 RadiomoduleV1.0 & electronicsLightbarriers & electronicsServo
@@ -71,7 +71,7 @@ Light barrier 1 and light barrier 2 are connected with logic AND. Both lightbarr
 
 The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
 
-Light barrier 1 and light barrier 2 are connected with logic AND. Both lightbarriers needs a falling edge (to 0V) to close the shutter.
+Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge (to 0V) to close the shutter.
 
 Light barrier 1 and light barrier 2 is forbidden to open the Shutter.
 
@@ -161,7 +161,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
 
-Light barrier 1 and light barrier 2 are connected with logic AND. Both lightbarriers needs a falling edge (to 0V) to close the shutter.
+Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge (to 0V) to close the shutter.
 
 Light barrier 1 and light barrier 2 is forbidden to open the Shutter.
 
@@ -206,7 +206,7 @@ Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, a
 
 Electronic servomotor and electronic light barriers
 
-Two light barriers high level signals: 204µA@9V --- Two lightbarriers low level signals : 1.65mA@9V
+Two light barriers high level signals: 204µA@9V --- Two light barriers low level signals : 1.65mA@9V
 
 ### Components:
 
@@ -217,14 +217,14 @@ https://github.com/peterloes/Servo_Engine
 
 ## 6 ReusedFrontplateLightBarriers & electronicsServo
 - No Radio module
-- Reused frontplate from nestbox with light barriers are switching shutterpositions.
+- Reused frontplate from nestbox with light barriers are switching shutter positions.
 - Servomotor and shutter is adjusted to the end positions.
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/6_ReusedFrontplateLightBarriers_ElectronicsServo.JPG)
 
 Light barrier 1 and light barrier 2 are able to open and close the shutter.
 
-Light barrier 1 and light barrier 2 are connected with logic AND. Both lightbarriers needs a falling edge to 0V to close the shutter.
+Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge to 0V to close the shutter.
 
 Light barrier 1 and light barrier 2 is forbidden to open the Shutter.
 
@@ -233,7 +233,7 @@ Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, a
 
 ### Current consumption needed 500mA@9V for Servomotor:
 
-Smart nestbox frontplatte reused 3.3V to max. 6V and lightbarrier circuit board 3.3V to max.60V 
+Smart nestbox frontplatte reused 3.3V to max. 6V and light barrier circuit board 3.3V to max.60V 
 
 !!! repeat measurements DD.06.2022
 
