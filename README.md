@@ -111,9 +111,11 @@ Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, a
 
 ### Current consumption:  
 
-Standby 20.5mA@9V with LEDs
+Standby 20.8mA@6V.
 
-Sleep mode 2.2mA@9V delay after 10 minutes.
+Sleep mode 2.3mA@6V delay after 10 minutes.
+
+Operate mode ???mA@6V (max.).
 
 ### Components:
 
