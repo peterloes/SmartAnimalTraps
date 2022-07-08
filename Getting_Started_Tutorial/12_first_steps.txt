@@ -1,7 +1,7 @@
 Servomotor electronics
 
 Logic module is wired to S2.
-Radiomodule is wired to D1_CMOS.
+Radiomodule(D1_CMOS) is wired to S1.
 
 Circuit board: https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V1.0.sch.pdf
 
