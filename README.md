@@ -84,7 +84,7 @@ Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, a
 
 ### Current consumption:
 
-Standby 20.8mA@6V, clocked approx. 2.0mA@6V (delay after 10 minutes).
+Standby 20.8mA@6V, clocked approx. 2.0mA@6V (after 10 minutes).
 
 Operate mode 320mA@6V (max.).
 
@@ -114,7 +114,7 @@ Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, a
 
 ### Current consumption:  
 
-Standby 20.5mA@6V, clocked approx. 2.3mA@6V (delay after 10 minutes).
+Standby 20.5mA@6V, clocked approx. 2.3mA@6V (after 10 minutes).
 
 Operate mode 235mA@6V (max.).
 
@@ -140,7 +140,7 @@ The radio handheld transmitter is able to open, close and to rotates the shutter
 
 ### Current consumption:  
 
-Standby 30mA@9V, clocked approx. 11.5mA@9V (delay after 10 minutes).
+Standby 30mA@9V, clocked approx. 11.5mA@9V (after 10 minutes).
 
 Operate mode 188mA@9V Motor is steady turning.
 
