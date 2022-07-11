@@ -198,19 +198,15 @@ https://github.com/peterloes/RFID-MS   (frontplate nestbox)
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/51_overview.JPG)
 
-Light barrier 1 and light barrier 2 are able to open and close the shutter.
+Light barrier 1 and light barrier 2 are able to open or to close the shutter.
 
-Light barrier 1 and light barrier 2 are connected with logic AND. Both lightbarriers needs a falling edge to 0V to close the shutter.
+Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open or to close the shutter.
 
-Light barrier 1 and light barrier 2 is forbidden to open the shutter.
+### Current consumption:
 
-Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
+Standby 21.9mA@6V, clocked approx. 2.0mA@6V (after 10 minutes). With LEDs.
 
-### Current consumption needed 500mA@9V for Servomotor:
-
-Electronic servomotor and electronic light barriers
-
-Two light barriers high level signals: 204µA@9V --- Two light barriers low level signals : 1.65mA@9V
+Operate mode 303mA@6V (max.). With LED
 
 ### Components:
 
