@@ -160,7 +160,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 - Reused frontplate nestbox with light barriers and electronic light barriers.
 - Servomotor and shutter is adjusted to the end positions.
 
-![My image] ()
+![My image] (https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/41_overview.JPG)
 
 The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
 
