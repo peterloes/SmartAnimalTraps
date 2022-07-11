@@ -184,7 +184,13 @@ Two high level signals: 100µA@13,2V -- Two low level signals: 1,45mA@13,2V
 
 LINK!!! Electronics Radio Module V?? // In process DD.06.2022!!!
 
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V4.0.brd.pdf
+
+https://github.com/peterloes/Light_Barrier
+
 https://github.com/peterloes/Servo_Engine
+
+https://github.com/peterloes/RFID-MS   (frontplate nestbox)
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
