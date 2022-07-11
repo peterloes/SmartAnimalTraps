@@ -131,7 +131,7 @@ https://github.com/peterloes/Servo_Engine
 ## 3 RadiomoduleV3.0 & modifiedServo
 - Radio module V3.0 add-on board (Version from year 2010, to revision)
 - No light barriers
-- Full rotation of modified servomotor --> Motor rotation 360°
+- Full rotation of modified servomotor --> Motor rotation 360° --> left/right rotations
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModuleV1.5_ServoModified.JPG)
 
@@ -142,7 +142,7 @@ The radio handheld transmitter is able to open, close and to rotates the shutter
 
 Standby 30mA@9V, clocked approx. 11.5mA@9V (after 10 minutes).
 
-Operate mode 188mA@9V Motor is steady turning.
+Operate mode 179mA@9V Motor is steady turning.
 
 ### Components:
 
