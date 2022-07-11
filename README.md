@@ -170,9 +170,14 @@ Light barrier 1 and light barrier 2 is forbidden to open the shutter.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
-### Current consumption needed 500mA@9V for Servomotor:
 
-Smart nestbox frontplatte reuse 3.3V to max. 6V and light barrier circuit board 3.3V to max.60V 
+### Current consumption:
+
+Standby 20.8mA@6V, clocked approx. 2.0mA@6V (after 10 minutes).
+
+Operate mode 500mA@6V (max.).
+
+Smart nestbox frontplate reused 3.3V to max. 6V and light barrier circuit board 3.3V to max.60V 
 
 Two high level signals: 105µA@3,3V  -- Two low level signals: 1,47mA@3,3V
 
@@ -181,8 +186,6 @@ Two high level signals: 100µA@5V    -- Two low level signals:  160µA@5V
 Two high level signals: 100µA@13,2V -- Two low level signals: 1,45mA@13,2V
 
 ### Components:
-
-LINK!!! Electronics Radio Module V?? // In process DD.06.2022!!!
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V4.0.brd.pdf
 
@@ -194,7 +197,7 @@ https://github.com/peterloes/RFID-MS   (frontplate nestbox)
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
-!!! Electronics Radio Module V??? and packaging in process DD.07.2022 !!!
+!!! Packaging in process DD.07.2022 !!!
 
 ## 5 electronicsLightBarriers & electronicsServo
 - No radio module
