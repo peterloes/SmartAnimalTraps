@@ -105,7 +105,7 @@ https://github.com/peterloes/Servo_Engine
 - No light barriers
 - Servomotor and shutter is adjusted to the end positions.
 
-![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_Anschluss_1.JPG)
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_overview.JPG)
 
 The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
 
