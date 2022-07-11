@@ -137,7 +137,6 @@ https://github.com/peterloes/Servo_Engine
 
 The radio handheld transmitter is able to open, close and to rotates the shutter. Electronical release range of 70 metres tested in urban environment.
 
-
 ### Current consumption:  
 
 Standby 30mA@6V, clocked approx. 11.4mA@6V (after 10 minutes). With LEDs.
@@ -173,7 +172,7 @@ Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, a
 
 ### Current consumption:
 
-Standby 21.9mA@6V, clocked approx. 2.0mA@6V (after 10 minutes). With LEDs.
+Standby 21.9mA@6V, clocked approx. 3.5mA@6V (after 10 minutes). With LEDs.
 
 Operate mode 303mA@6V (max.). With LEDs.
 
