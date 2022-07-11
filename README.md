@@ -140,7 +140,7 @@ The radio handheld transmitter is able to open, close and to rotates the shutter
 
 ### Current consumption:  
 
-Standby 30mA@6V, clocked approx. 11.5mA@6V (after 10 minutes). With LEDs.
+Standby 30mA@6V, clocked approx. 11.4mA@6V (after 10 minutes). With LEDs.
 
 Operate mode 179mA@6V Motor is steady turning. With LEDs.
 
