@@ -204,7 +204,7 @@ https://github.com/peterloes/RFID-MS   (frontplate nestbox)
 - Electronic light barriers are switching shutterpositions.
 - Servomotor and shutter is adjusted to the end positions.
 
-![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/5_ElectronicsLightBarrier_ElectronicsServo.jpg)
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/51_overview.JPG)
 
 Light barrier 1 and light barrier 2 are able to open and close the shutter.
 
