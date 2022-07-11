@@ -173,17 +173,9 @@ Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, a
 
 ### Current consumption:
 
-Standby 20.8mA@6V, clocked approx. 2.0mA@6V (after 10 minutes).
+Standby 21.9mA@6V, clocked approx. 2.0mA@6V (after 10 minutes). With LEDs.
 
-Operate mode 500mA@6V (max.).
-
-Smart nestbox frontplate reused 3.3V to max. 6V and light barrier circuit board 3.3V to max.60V 
-
-Two high level signals: 105µA@3,3V  -- Two low level signals: 1,47mA@3,3V
-
-Two high level signals: 100µA@5V    -- Two low level signals:  160µA@5V
-
-Two high level signals: 100µA@13,2V -- Two low level signals: 1,45mA@13,2V
+Operate mode 303mA@6V (max.). With LEDs.
 
 ### Components:
 
