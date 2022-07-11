@@ -154,7 +154,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 
-## 4 RadiomoduleV4.0 & ReusedFrontplate & electronicsLightbarriers & electronicsServo
+## 4 RadiomoduleV4.0 & reusedFrontplate & electronicsLightbarriers & electronicsServo
 - Radio module V4.0 add-on board (not illustrated)
 - Reused frontplate from nestbox with light barriers and electronic light barriers.
 - Servomotor and shutter is adjusted to the end positions.
