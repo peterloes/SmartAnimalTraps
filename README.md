@@ -197,9 +197,9 @@ https://github.com/peterloes/RFID-MS   (frontplate nestbox)
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/51_overview.JPG)
 
-Light barrier 1 and light barrier 2 are able to open or to close the shutter.
+Light barrier 1 or light barrier 2 are able to open or to close the shutter.
 
-Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open or to close the shutter.
+Pushbutton 1 or pushbutton 2, mounted on the top of the electronical circuit, are able to open or to close the shutter.
 
 ### Current consumption:
 
