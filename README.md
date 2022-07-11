@@ -133,7 +133,7 @@ https://github.com/peterloes/Servo_Engine
 - No light barriers
 - Full rotation of modified servomotor --> Motor rotation 360° --> left/right rotations
 
-![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_RadioModuleV1.5_ServoModified.JPG)
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_overview.JPG)
 
 The radio handheld transmitter is able to open, close and to rotates the shutter. Electronical release range of 70 metres tested in urban environment.
 
