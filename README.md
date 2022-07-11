@@ -157,7 +157,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 ## 4 RadiomoduleV4.0 & ReusedFrontplate & electronicsLightbarriers & electronicsServo
 - Radio module V4.0 add-on board (not illustrated)
-- Reused frontplate nestbox with light barriers and electronic light barriers.
+- Reused frontplate from nestbox with light barriers and electronic light barriers.
 - Servomotor and shutter is adjusted to the end positions.
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/41_overview.JPG)
