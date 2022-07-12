@@ -86,7 +86,7 @@ Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, a
 
 Standby 20.8mA@6V, clocked approx. 2.0mA@6V (after 10 minutes).
 
-Operate mode 320mA@6V (max.).
+Operate mode 320mA@6V (max.)
 
 ### Components:
 
@@ -116,7 +116,7 @@ Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, a
 
 Standby 20.5mA@6V, clocked approx. 2.3mA@6V (after 10 minutes).
 
-Operate mode 235mA@6V (max.).
+Operate mode 235mA@6V (max.)
 
 ### Components:
 
@@ -206,7 +206,7 @@ Pushbutton 1 or pushbutton 2, mounted on the top of the electronical circuit, ar
 
 Standby 0,22mA@6V --> 220µA@6V
 
-Operate mode 322mA@6V (max.).
+Operate mode 322mA@6V (max.)
 
 ### Components:
 
@@ -230,7 +230,7 @@ Pushbutton 1 or pushbutton 2, mounted on the top of the electronical circuit, ar
 
 Standby 0,05mA@6V --> 50µA@6V
 
-Operate mode 375mA@6V (max.).
+Operate mode 375mA@6V (max.)
 
 ### Components:
 
