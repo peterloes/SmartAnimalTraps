@@ -214,9 +214,9 @@ https://github.com/peterloes/Light_Barrier
 https://github.com/peterloes/Servo_Engine
 
 
-## 6 ReusedFrontplateLightBarriers & electronicsServo
+## 6 ReusedFrontplate & electronicsServo
 - No Radio module
-- Reused frontplate from nestbox with light barriers are switching shutter positions.
+- Reused frontplate from nestbox included light barriers. Switching shutter positions.
 - Servomotor and shutter is adjusted to the end positions.
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/61_overview.JPG)
