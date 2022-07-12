@@ -195,7 +195,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 !!! Packaging in process DD.07.2022 !!!
 
-## 5 electronicsLightBarriers & electronicsServo
+## 5 ElectronicsLightBarriers & electronicsServo
 - No radio module
 - Electronic light barriers for different distances are switching shutterpositions.
 - Servomotor and shutter is adjusted to the end positions.
