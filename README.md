@@ -21,15 +21,15 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 Examples after teaching the modules:
  
-Hand-held transmitter1-->Key1 --Trap1-->Shutter closed__ Hand-held transmitter1-->Key2 --Trap1-->Shutter open
+Hand-held transmitter1-->Button1 --Trap1-->Shutter closed__ Hand-held transmitter1-->Button2 --Trap1-->Shutter open
 
-Hand-held transmitter1-->Key3 --Trap2-->Shutter closed__ Hand-held transmitter1-->Key4 --Trap2-->Shutter open
+Hand-held transmitter1-->Button3 --Trap2-->Shutter closed__ Hand-held transmitter1-->Button4 --Trap2-->Shutter open
 
 or 
  
-Hand-held transmitter2 --> Key1 -- Trap1-Trap2-Trap3-Trap4 --> Shutter closed
+Hand-held transmitter2 --> Button1 -- Trap1-Trap2-Trap3-Trap4 --> Shutter closed
 
-Hand-held transmitter2 --> Key2 -- Trap1-Trap2-Trap3-Trap4 --> Shutter open
+Hand-held transmitter2 --> Button2 -- Trap1-Trap2-Trap3-Trap4 --> Shutter open
 
 
 #### Drive electronics for servomotor and flap:
@@ -74,7 +74,8 @@ Light barrier 1 and light barrier 2 are connected with logic AND. Both light bar
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/11_overview.jpg)
 
-The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
+The radio handheld transmitter is able to open and close the shutter by pressing a button.
+Electronical release range of 70 metres tested in urban environment.
 
 Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge (to 0V) to close the shutter.
 
