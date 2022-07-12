@@ -203,9 +203,9 @@ Pushbutton 1 or pushbutton 2, mounted on the top of the electronical circuit, ar
 
 ### Current consumption:
 
-Standby 21.9mA@6V, clocked approx. 2.0mA@6V (after 10 minutes). With LEDs.
+Standby 0,22mA@6V --> 220µA@6V
 
-Operate mode 303mA@6V (max.). With LED
+Operate mode 322mA@6V (max.).
 
 ### Components:
 
