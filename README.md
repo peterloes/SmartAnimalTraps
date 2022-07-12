@@ -220,7 +220,7 @@ https://github.com/peterloes/Servo_Engine
 - Reused frontplate from nestbox included light barriers. Switching shutter positions.
 - Servomotor and shutter is adjusted to the end positions.
 
-![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/61_overview.JPG)
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/61_overview_1.JPG)
 
 Light barrier 1 and light barrier 2 are able to open and close the shutter.
 
