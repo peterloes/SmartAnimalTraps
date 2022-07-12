@@ -218,7 +218,7 @@ https://github.com/peterloes/Servo_Engine
 
 
 ## 6 ReusedFrontplate & electronicsServo
-- No Radio module
+- No radio module
 - Reused frontplate from nestbox included light barriers. Switching shutter positions.
 - Servomotor and shutter is adjusted to the end positions.
 
