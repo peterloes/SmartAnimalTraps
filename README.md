@@ -93,6 +93,8 @@ Operate mode 320mA@6V (max.)
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V1.0.brd.pdf
 
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/13_wireless_radiomodule.JPG
+
 https://github.com/peterloes/Light_Barrier
 
 https://github.com/peterloes/Servo_Engine
@@ -123,6 +125,8 @@ Operate mode 235mA@6V (max.)
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V2.0.brd.pdf
 
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/13_wireless_radiomodule.JPG
+
 https://github.com/peterloes/Servo_Engine
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
@@ -147,6 +151,8 @@ Operate mode 179mA@6V Motor is steady turning. With LEDs.
 ### Components:
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V3.0.brd.pdf
+
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/13_wireless_radiomodule.JPG
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/33_Servo_modified.JPG
 
@@ -181,6 +187,8 @@ Operate mode 303mA@6V (max.). With LEDs.
 ### Components:
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Schematics/radio_module_V4.0.brd.pdf
+
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/13_wireless_radiomodule.JPG
 
 https://github.com/peterloes/Light_Barrier
 
