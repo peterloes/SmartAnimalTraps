@@ -17,7 +17,7 @@ The particular highlight is the feedback from the receiver. You can see from the
 whether the wireless communication was successful and receive information about the quality of the transmission path.
 Electronical release range of 70 metres tested in urban environment. 
 
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/13_wireless_radiomodule_handheld.JPG
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/13_wireless_radiomodule.JPG
 
 Examples after teaching the modules:
  
