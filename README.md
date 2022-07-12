@@ -187,6 +187,8 @@ https://github.com/peterloes/Servo_Engine
 
 https://github.com/peterloes/RFID-MS   (frontplate nestbox)
 
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/7_Supplier.txt
+
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
 !!! Packaging in process DD.07.2022 !!!
