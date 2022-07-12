@@ -185,7 +185,9 @@ https://github.com/peterloes/Light_Barrier
 
 https://github.com/peterloes/Servo_Engine
 
-https://github.com/peterloes/RFID-MS   (frontplate nestbox)
+Frontplate nestbox
+
+https://github.com/peterloes/RFID-MS
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/7_Supplier.txt
 
@@ -238,7 +240,9 @@ Operate mode 375mA@6V (max.)
 
 https://github.com/peterloes/Servo_Engine
 
-https://github.com/peterloes/RFID-MS   (frontplate nestbox)
+Frontplate nestbox
+
+https://github.com/peterloes/RFID-MS
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/7_Supplier.txt
 
