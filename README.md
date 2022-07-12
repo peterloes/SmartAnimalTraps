@@ -238,6 +238,7 @@ https://github.com/peterloes/Servo_Engine
 
 https://github.com/peterloes/RFID-MS   (frontplate nestbox)
 
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/7_Supplier.txt
 
 ### EXTENSIONS
 
