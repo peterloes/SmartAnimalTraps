@@ -77,8 +77,7 @@ Light barrier 1 and light barrier 2 are connected with logic AND. Both light bar
 The radio handheld transmitter is able to open and close the shutter by pressing a button.
 Electronical release range of 70 metres tested in urban environment.
 
-Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge (to 0V) to close the shutter.
-
+Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge (to 0V) to close the shutter. 
 Light barrier 1 and light barrier 2 is forbidden to open the shutter.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
@@ -110,7 +109,7 @@ https://github.com/peterloes/Servo_Engine
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/21_overview.JPG)
 
-The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
+The radio handheld transmitter is able to open and close the shutter by pressing a button. Electronical release range of 70 metres tested in urban environment.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
 
@@ -140,7 +139,7 @@ https://github.com/peterloes/Servo_Engine
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/31_overview.JPG)
 
-The radio handheld transmitter is able to open, close and to rotates the shutter. Electronical release range of 70 metres tested in urban environment.
+The radio handheld transmitter is able to open, close and to rotates the shutter by pressing a button. Electronical release range of 70 metres tested in urban environment.
 
 ### Current consumption:  
 
@@ -169,10 +168,9 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/41_overview.JPG)
 
-The radio handheld transmitter is able to open and close the shutter. Electronical release range of 70 metres tested in urban environment.
+The radio handheld transmitter is able to open and close the shutter by pressing a button. Electronical release range of 70 metres tested in urban environment.
 
 Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge (to 0V) to close the shutter.
-
 Light barrier 1 and light barrier 2 is forbidden to open the shutter.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
