@@ -51,7 +51,7 @@ Pushbutton 1 end position 1 --> Shutter open_____ Pushbutton2 end position 2 -->
 
 or
 
-Input signal 1(radiomodule D1) end position 1 --> Shutter open_____ Input signal 2(logic module) end position 2 --> Shutter closed
+Input signal 1 end position 1 --> Shutter open_____ Input signal 2 end position 2 --> Shutter closed
 
 
 #### Drive electronics for light barriers:
