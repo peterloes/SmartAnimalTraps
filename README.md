@@ -197,7 +197,7 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 ## 5 ElectronicsLightBarriers & electronicsServo
 - No radio module
-- Electronic light barriers for different distances are switching shutterpositions.
+- Electronic light barriers for different distances are switching shutter positions.
 - Servomotor and shutter is adjusted to the end positions.
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/51_overview.JPG)
