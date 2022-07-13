@@ -21,9 +21,9 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 Examples after teaching the modules:
  
-Hand-held transmitter1-->Button1 --Trap1-->Shutter closed__ Hand-held transmitter1-->Button2 --Trap1-->Shutter open
+Hand-held transmitter-->Button1--Trap1-->Shutter closed__ Hand-held transmitter-->Button2--Trap1-->Shutter open
 
-Hand-held transmitter1-->Button3 --Trap2-->Shutter closed__ Hand-held transmitter1-->Button4 --Trap2-->Shutter open
+Hand-held transmitter-->Button3--Trap2-->Shutter closed__ Hand-held transmitter-->Button4--Trap2-->Shutter open
 
 or 
  
