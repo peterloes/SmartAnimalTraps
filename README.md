@@ -49,7 +49,7 @@ Asserting S3 the 4th time stores the servo parameters into FLASH and returns to 
 
 .https://github.com/peterloes/Servo_Engine
 
-Examples for shutterposition after adjust the end positions:
+Examples for shutter positions after adjust the end positions:
 
 Pushbutton 1 end position 1 --> Shutter open 
 
