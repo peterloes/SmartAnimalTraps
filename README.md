@@ -51,12 +51,15 @@ Asserting S3 the 4th time stores the servo parameters into FLASH and returns to 
 
 Examples for shutterposition after adjust the end positions:
 
-Pushbutton 1 end position 1 --> Shutter open_____ Pushbutton2 end position 2 --> Shutter closed
+Pushbutton 1 end position 1 --> Shutter open 
+
+Pushbutton 2 end position 2 --> Shutter closed
 
 or
 
-Input signal 1 end position 1 --> Shutter open_____ Input signal 2 end position 2 --> Shutter closed
+Input signal 1 end position 1 --> Shutter open
 
+Input signal 2 end position 2 --> Shutter closed
 
 #### Drive electronics for light barriers:
 
