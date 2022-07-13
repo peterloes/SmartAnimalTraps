@@ -21,15 +21,19 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 Examples after teaching the modules:
  
-Hand-held transmitter-->Button1--Trap1-->Shutter closed__ Hand-held transmitter-->Button2--Trap1-->Shutter open
+Hand-held transmitter --> Button1 -- Trap1 --> Shutter closed
 
-Hand-held transmitter-->Button3--Trap2-->Shutter closed__ Hand-held transmitter-->Button4--Trap2-->Shutter open
+Hand-held transmitter --> Button2 -- Trap1 --> Shutter open
+
+Hand-held transmitter --> Button3 -- Trap2 --> Shutter closed
+
+Hand-held transmitter --> Button4 -- Trap2 --> Shutter open
 
 or 
  
-Hand-held transmitter2 --> Button1 -- Trap1-Trap2-Trap3-Trap4 --> Shutter closed
+Hand-held transmitter --> Button1 -- Trap1-Trap2-Trap3-Trap4 --> Shutter closed
 
-Hand-held transmitter2 --> Button2 -- Trap1-Trap2-Trap3-Trap4 --> Shutter open
+Hand-held transmitter --> Button2 -- Trap1-Trap2-Trap3-Trap4 --> Shutter open
 
 
 #### Drive electronics for servomotor and flap:
