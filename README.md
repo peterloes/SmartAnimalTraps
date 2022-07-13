@@ -85,7 +85,7 @@ Light barrier 1 or light barrier 2 are able to open or to close the shutter.
 
 The radio handheld transmitter is able to open and close the shutter by pressing a button.
 
-Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge (to 0V) to close the shutter. 
+Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge of the signal to close the shutter. 
 Light barrier 1 and light barrier 2 is forbidden to open the shutter.
 
 Pushbutton 1 and pushbutton 2, mounted on the top of the electronical circuit, are able to open and close the shutter.
