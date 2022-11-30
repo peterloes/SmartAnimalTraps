@@ -1,6 +1,6 @@
 # SmartAnimalTraps
 Electrical applications for non-deadly animal traps built up with intelligent radio module, drive electronics for servomotors
-(flap drive) and drive electronics for different low power light barriers.
+(flap drive) and electronics for different low power light barriers.
 
 Author: Loës P. (2022) [![DOI](https://zenodo.org/badge/502934599.svg)](https://zenodo.org/badge/latestdoi/502934599)
 
