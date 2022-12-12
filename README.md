@@ -96,6 +96,10 @@ Standby 20.8mA@6V, clocked approx. 2.0mA@6V (after 10 minutes).
 
 Operate mode 320mA@6V (max.)
 
+### Application:
+
+coming soon 01.2023 !!!
+
 ### Components:
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/13_wireless_radiomodule.JPG
@@ -108,7 +112,6 @@ https://github.com/peterloes/Servo_Engine
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
-!!! Packaging in process DD.07.2022 !!!
 
 ## 2 RadiomoduleV2.0 & electronicsServo
 - Radio module V2.0 add-on board (not illustrated) 
@@ -138,7 +141,6 @@ https://github.com/peterloes/Servo_Engine
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
-!!! Packaging in process DD.07.2022 !!!
 
 ## 3 RadiomoduleV3.0 & modifiedServo
 - Radio module V3.0 add-on board (Version from year 2010, to revision)
@@ -154,6 +156,10 @@ The radio handheld transmitter is able to open, close and to rotates the shutter
 Standby 30mA@6V, clocked approx. 11.4mA@6V (after 10 minutes). With LEDs.
 
 Operate mode 179mA@6V Motor is steady turning. With LEDs.
+
+### Application:
+
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/Snaptrap.jpg
 
 ### Components:
 
@@ -262,8 +268,6 @@ https://github.com/peterloes/RFID-MS
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/7_Supplier.txt
 
 ### EXTENSIONS
-
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/Snaptrap.jpg
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/SailwinchServo.jpg
 
