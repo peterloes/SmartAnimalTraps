@@ -214,7 +214,6 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 --> Protection against misuse!!! Dear follower, please contact me via email to get more information about the used wireless radio module. 
 
-!!! Packaging in process DD.07.2022 !!!
 
 ## 5 ElectronicsLightBarriers & electronicsServo
 - No radio module
