@@ -98,7 +98,7 @@ Operate mode 320mA@6V (max.)
 
 ### Application:
 
-coming soon 01.2023 !!!
+is coming soon 02.2023 !!!
 
 ### Components:
 
