@@ -5,77 +5,6 @@ Electrical applications for non-deadly animal traps built up with intelligent ra
 Author: Loës P. (2022) [![DOI](https://zenodo.org/badge/502934599.svg)](https://zenodo.org/badge/latestdoi/502934599)
 
 
-
-#### Intelligent radio module:
-
-Wireless module receives and evaluates the data received from a transmitter.
-
-In order to carry out a command from a transmitter, it must first be taught.
-Teaching of a transmitter is carried out very easily by means of a button.
-As required, up to 60 transmitters can be taught with all keys or individual transmission keys.
-The particular highlight is the feedback from the receiver. You can see from the transmitter
-whether the wireless communication was successful and receive information about the quality of the transmission path.
-Electronical release range of 70 metres tested in urban environment. 
-
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/13_wireless_radiomodule.JPG
-
-Examples after teaching the modules:
- 
-Hand-held transmitter --> Button1 -- Trap1 --> Shutter closed
-
-Hand-held transmitter --> Button2 -- Trap1 --> Shutter open
-
-Hand-held transmitter --> Button3 -- Trap2 --> Shutter closed
-
-Hand-held transmitter --> Button4 -- Trap2 --> Shutter open
-
-or 
- 
-Hand-held transmitter --> Button1 -- Trap1-Trap2-Trap3-Trap4 --> Shutter closed
-
-Hand-held transmitter --> Button2 -- Trap1-Trap2-Trap3-Trap4 --> Shutter open
-
-
-#### Drive electronics for servomotor and flap:
-
-Trigger always the same positions over input signals (two end points) or over pushbuttons.
-
-The servo setup procedure consists of 4 steps:
-
-Adjust end position 1. This can be the most left or the most right end point. This position will be reached after power-up if valid servo data has been found in FLASH.
-Adjust end position 2. This is the opposite end position to position 1.
-Adjust servo speed. The servo permanently moves between the two end points. The speed can be adjusted via S1 and S2.
-Asserting S3 the 4th time stores the servo parameters into FLASH and returns to normal operation
-
-.https://github.com/peterloes/Servo_Engine
-
-Examples for shutter positions after adjust the end positions:
-
-Pushbutton 1 end position 1 --> Shutter open 
-
-Pushbutton 2 end position 2 --> Shutter closed
-
-or
-
-Input signal 1 end position 1 --> Shutter open
-
-Input signal 2 end position 2 --> Shutter closed
-
-#### Drive electronics for light barriers:
-
-Supported two low power light barriers, adjustable for different distances(size of animal) 10 centimetres to tested 3.3 metres. 
-The beam is scattered light independently and invisible.
-Wide power input range of light barrier circuit board 3.3V to max.60V. Used receiver from Vishay "TSSP58038" and LED from Vishay "VSLB3940"
-
-https://github.com/peterloes/Light_Barrier
-
-Examples for light barriers:
-
-Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge of the signals to close the shutter.
-
-Light barrier 1 or light barrier 2 are able to open or to close the shutter.
-
-
 ## 1 RadiomoduleV1.0 & electronicsLightbarriers & electronicsServo
 - Radio module V1.0 add-on board (not illustrated)
 - Electronic light barriers for different distances.
@@ -271,3 +200,74 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/SailwinchServo.jpg
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/LightBarrier_example.jpg 
+
+
+#### Intelligent radio module:
+
+Wireless module receives and evaluates the data received from a transmitter.
+
+In order to carry out a command from a transmitter, it must first be taught.
+Teaching of a transmitter is carried out very easily by means of a button.
+As required, up to 60 transmitters can be taught with all keys or individual transmission keys.
+The particular highlight is the feedback from the receiver. You can see from the transmitter
+whether the wireless communication was successful and receive information about the quality of the transmission path.
+Electronical release range of 70 metres tested in urban environment. 
+
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/13_wireless_radiomodule.JPG
+
+Examples after teaching the modules:
+ 
+Hand-held transmitter --> Button1 -- Trap1 --> Shutter closed
+
+Hand-held transmitter --> Button2 -- Trap1 --> Shutter open
+
+Hand-held transmitter --> Button3 -- Trap2 --> Shutter closed
+
+Hand-held transmitter --> Button4 -- Trap2 --> Shutter open
+
+or 
+ 
+Hand-held transmitter --> Button1 -- Trap1-Trap2-Trap3-Trap4 --> Shutter closed
+
+Hand-held transmitter --> Button2 -- Trap1-Trap2-Trap3-Trap4 --> Shutter open
+
+
+#### Drive electronics for servomotor and flap:
+
+Trigger always the same positions over input signals (two end points) or over pushbuttons.
+
+The servo setup procedure consists of 4 steps:
+
+Adjust end position 1. This can be the most left or the most right end point. This position will be reached after power-up if valid servo data has been found in FLASH.
+Adjust end position 2. This is the opposite end position to position 1.
+Adjust servo speed. The servo permanently moves between the two end points. The speed can be adjusted via S1 and S2.
+Asserting S3 the 4th time stores the servo parameters into FLASH and returns to normal operation
+
+.https://github.com/peterloes/Servo_Engine
+
+Examples for shutter positions after adjust the end positions:
+
+Pushbutton 1 end position 1 --> Shutter open 
+
+Pushbutton 2 end position 2 --> Shutter closed
+
+or
+
+Input signal 1 end position 1 --> Shutter open
+
+Input signal 2 end position 2 --> Shutter closed
+
+#### Drive electronics for light barriers:
+
+Supported two low power light barriers, adjustable for different distances(size of animal) 10 centimetres to tested 3.3 metres. 
+The beam is scattered light independently and invisible.
+Wide power input range of light barrier circuit board 3.3V to max.60V. Used receiver from Vishay "TSSP58038" and LED from Vishay "VSLB3940"
+
+https://github.com/peterloes/Light_Barrier
+
+Examples for light barriers:
+
+Light barrier 1 and light barrier 2 are connected with logic AND. Both light barriers needs a falling edge of the signals to close the shutter.
+
+Light barrier 1 or light barrier 2 are able to open or to close the shutter.
+
