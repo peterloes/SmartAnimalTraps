@@ -10,7 +10,7 @@ Author: Loës P. (2022) [![DOI](https://zenodo.org/badge/502934599.svg)](https:/
 - Electronic light barriers for different distances.
 - Servomotor and shutter is adjusted to the end positions.
 
-![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/11_overview.JPG)
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/11_overview.jpg)
 
 The radio handheld transmitter is able to open and close the shutter by pressing a button.
 
@@ -27,7 +27,7 @@ Operate mode 320mA@6V (max.)
 
 ### Application:
 
-is coming soon 02.2023 !!!
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/111_overview.jpg)
 
 ### Components:
 
