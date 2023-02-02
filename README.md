@@ -27,7 +27,7 @@ Operate mode 320mA@6V (max.)
 
 ### Application:
 
-![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/111_overview.jpg)
+![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/14_overview.jpg)
 
 ### Components:
 
