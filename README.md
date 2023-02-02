@@ -25,7 +25,7 @@ Standby 20.8mA@6V, clocked approx. 2.0mA@6V (after 10 minutes).
 
 Operate mode 320mA@6V (max.)
 
-### Application "bird trap":
+### Application bird trap:
 
 ![My image](https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/14_overview.jpg)
 
