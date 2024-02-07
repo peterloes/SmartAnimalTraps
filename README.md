@@ -199,7 +199,9 @@ https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial
 
 https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/SailwinchServo.jpg
 
-https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/LightBarrier_example.jpg 
+https://github.com/peterloes/SmartAnimalTraps/blob/main/Getting_Started_Tutorial/LightBarrier_example.jpg
+
+https://hackaday.io/project/193448-solenoid-as-a-switch-with-proximity-detection
 
 
 #### Intelligent radio module:
